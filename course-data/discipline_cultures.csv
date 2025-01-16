@@ -1,0 +1,301 @@
+ClassNumber,Mnemonic,Number,Section,Type,Units,Instructor,Days,Room,Title,Topic,Status,Enrollment,EnrollmentLimit,Waitlist
+10552,AAS,1020,100,Lecture,"4","Nemata Blyden, Guilherme Lemos","TuTh 12:30pm - 1:45pm","Wilson Hall 301","Introduction to African-American and African Studies II","",Open,157,180,1
+10557,AAS,1020,101,Discussion,"0","Guilherme Lemos","Tu 6:00pm - 6:50pm","New Cabell Hall 207","Introduction to African-American and African Studies II","",Wait List,20,20,0
+10556,AAS,1020,102,Discussion,"0","Guilherme Lemos","Tu 5:00pm - 5:50pm","New Cabell Hall 315","Introduction to African-American and African Studies II","",Wait List,20,20,0
+10555,AAS,1020,103,Discussion,"0","Nathan Frank","We 5:00pm - 5:50pm","New Cabell Hall 291","Introduction to African-American and African Studies II","",Wait List,20,20,0
+10554,AAS,1020,104,Discussion,"0","Nathan Frank","We 7:00pm - 7:50pm","New Cabell Hall 415","Introduction to African-American and African Studies II","",Wait List,20,20,0
+10558,AAS,1020,105,Discussion,"0","Guilherme Lemos","Tu 7:00pm - 7:50pm","New Cabell Hall 211","Introduction to African-American and African Studies II","",Open,18,20,0
+10553,AAS,1020,106,Discussion,"0","Nathan Frank","We 6:00pm - 6:50pm","New Cabell Hall 415","Introduction to African-American and African Studies II","",Open,14,20,0
+12236,AAS,1020,107,Discussion,"0","Chloe Porche","Tu 4:00pm - 4:50pm","New Cabell Hall 032","Introduction to African-American and African Studies II","",Wait List,19,20,1
+12237,AAS,1020,108,Discussion,"0","Chloe Porche","Tu 5:00pm - 5:50pm","New Cabell Hall 338","Introduction to African-American and African Studies II","",Open,19,20,0
+12238,AAS,1020,109,Discussion,"0","Chloe Porche","Tu 6:00pm - 6:50pm","New Cabell Hall 211","Introduction to African-American and African Studies II","",Open,7,20,0
+19106,AAS,3559,002,SEM,"3","Salma Mutwafy","TuTh 9:30am - 10:45am","New Cabell Hall 364","New Course in African and African American Studies","Africa's Youth: Cultural & Political Perspectives",Open,11,16,0
+20594,AAS,3559,004,SEM,"3","Shelby Sinclair","TuTh 11:00am - 12:15pm","New Cabell Hall 315","New Course in African and African American Studies","Haiti and the US",Open,22,25,0
+12470,AMST,3180,100,Lecture,"3","Sylvia Chong","MoWe 10:00am - 10:50am","Ridley Hall G004","Introduction to Asian American Studies","",Open,59,60,0
+13030,AMST,3180,101,Discussion,"0","Xiwen Wang","Fr 12:00pm - 12:50pm","New Cabell Hall 066","Introduction to Asian American Studies","",Closed,15,15,0
+13031,AMST,3180,102,Discussion,"0","Xiwen Wang","Fr 9:00am - 9:50am","Dawson's Row 1","Introduction to Asian American Studies","",Open,14,15,0
+13032,AMST,3180,103,Discussion,"0","Katie Wu","Fr 11:00am - 11:50am","Dell 1 104","Introduction to Asian American Studies","",Closed,15,15,0
+13033,AMST,3180,104,Discussion,"0","Katie Wu","Fr 10:00am - 10:50am","Dell 1 104","Introduction to Asian American Studies","",Closed,15,15,0
+19209,AMST,3280,001,SEM,"3","Kasey Jernigan","MoWe 2:00pm - 2:50pm","New Cabell Hall 364","Introduction to Native American Studies: (Mis)Representations","",Closed,30,30,0
+13359,ANTH,2120,100,Lecture,"3","Ira Bashkow","MoWe 3:00pm - 3:50pm","Minor Hall 125","The Concept of Culture","",Open,178,180,13
+13360,ANTH,2120,101,Discussion,"0","Nazli Azergun","Th 4:00pm - 4:50pm","Campbell Hall 108","The Concept of Culture","",Wait List,19,20,6
+13361,ANTH,2120,102,Discussion,"0","Sofia Moira Sejas Pary","Fr 11:00am - 11:50am","New Cabell Hall 291","The Concept of Culture","",Wait List,20,20,1
+13362,ANTH,2120,103,Discussion,"0","Jaran Rudd","Fr 12:00pm - 12:50pm","Brooks Hall 103","The Concept of Culture","",Wait List,20,20,0
+13363,ANTH,2120,104,Discussion,"0","Nazli Azergun","Th 9:30am - 10:20am","Pavilion VIII 102","The Concept of Culture","",Wait List,20,20,1
+13364,ANTH,2120,105,Discussion,"0","Sofia Moira Sejas Pary","Fr 9:00am - 9:50am","Brooks Hall 103","The Concept of Culture","",Open,19,20,1
+13365,ANTH,2120,106,Discussion,"0","Sofia Moira Sejas Pary","Fr 10:00am - 10:50am","John W. Warner Hall 113","The Concept of Culture","",Wait List,20,20,0
+14541,ANTH,2120,107,Discussion,"0","Jaran Rudd","Th 6:00pm - 6:50pm","Brooks Hall 103","The Concept of Culture","",Wait List,20,20,2
+14542,ANTH,2120,108,Discussion,"0","Nazli Azergun","Th 6:00pm - 6:50pm","New Cabell Hall 107","The Concept of Culture","",Wait List,20,20,1
+14543,ANTH,2120,109,Discussion,"0","Jaran Rudd","Fr 11:00am - 11:50am","Campbell Hall 108","The Concept of Culture","",Wait List,20,20,0
+14027,ANTH,2190,001,Lecture,"3","George Mentore","TuTh 3:30pm - 4:45pm","New Cabell Hall 168","Desire and World Economics","",Wait List,33,35,6
+14023,ANTH,2250,001,Lecture,"3","Richard Handler","MoWeFr 11:00am - 11:50am","Campbell Hall 160","Nationalism, Racism, Multiculturalism","",Open,87,90,7
+11475,ANTH,2280,100,Lecture,"3","Jarrett Zigon","We 3:30pm - 5:10pm","Nau Hall 101","Medical Anthropology","",Wait List,237,240,75
+12613,ANTH,2280,101,Discussion,"0","Brianna Doe","Th 7:00pm - 7:50pm","Brooks Hall 103","Medical Anthropology","",Wait List,20,20,6
+12615,ANTH,2280,103,Discussion,"0","Rachel Apone","We 11:00am - 11:50am","Pavilion VIII 102","Medical Anthropology","",Wait List,20,20,11
+12616,ANTH,2280,104,Discussion,"0","Brianna Doe","Th 6:00pm - 6:50pm","New Cabell Hall 207","Medical Anthropology","",Wait List,20,20,3
+12618,ANTH,2280,106,Discussion,"0","Rachel Apone","Fr 9:00am - 9:50am","New Cabell Hall 191","Medical Anthropology","",Wait List,20,20,8
+14018,ANTH,2280,107,Discussion,"0","Eunchae Kwon","Fr 11:00am - 11:50am","New Cabell Hall 111","Medical Anthropology","",Wait List,20,20,4
+14019,ANTH,2280,108,Discussion,"0","Rachel Apone","Fr 10:00am - 10:50am","The Rotunda Room 152","Medical Anthropology","",Wait List,20,20,5
+14020,ANTH,2280,109,Discussion,"0","Brianna Doe","Fr 12:00pm - 12:50pm","New Cabell Hall 115","Medical Anthropology","",Wait List,19,20,4
+19623,ANTH,2280,110,Discussion,"0","John Rovin","Mo 11:00am - 11:50am","Pavilion VIII 102","Medical Anthropology","",Wait List,19,20,4
+19747,ANTH,2280,111,Discussion,"0","Eunchae Kwon","Mo 11:00am - 11:50am","Brooks Hall 103","Medical Anthropology","",Wait List,20,20,6
+19748,ANTH,2280,112,Discussion,"0","Eunchae Kwon","Mo 12:00pm - 12:50pm","Brooks Hall 103","Medical Anthropology","",Wait List,20,20,10
+21085,ANTH,2280,113,Discussion,"0","John Rovin","Mo 9:00am - 9:50am","Brooks Hall 103","Medical Anthropology","",Wait List,20,20,3
+21086,ANTH,2280,114,Discussion,"0","John Rovin","Mo 10:00am - 10:50am","Brooks Hall 103","Medical Anthropology","",Wait List,19,20,7
+21310,ANTH,2470,001,Lecture,"3","Daniel Lefkowitz","TuTh 11:00am - 12:15pm","Pavilion VIII 108","Reflections of Exile: Jewish Languages and their Communities","",Open,1,9,0
+13013,ANTH,2820,100,Lecture,"3","Patricia Wattenmaker","MoWe 2:00pm - 2:50pm","John W. Warner Hall 104","The Emergence of States and Cities","",Wait List,59,60,4
+13014,ANTH,2820,101,Discussion,"0","Gabriel Oliveira","Th 6:00pm - 6:50pm","Brooks Hall 210","The Emergence of States and Cities","",Wait List,19,20,2
+13015,ANTH,2820,102,Discussion,"0","Gabriel Oliveira","Fr 11:00am - 11:50am","Brooks Hall 103","The Emergence of States and Cities","",Wait List,20,20,2
+13016,ANTH,2820,103,Discussion,"0","Gabriel Oliveira","Fr 10:00am - 10:50am","Brooks Hall 103","The Emergence of States and Cities","",Wait List,20,20,0
+13436,ANTH,3020,001,Lecture,"3","Roberto Rosado-Ramirez","MoWe 3:30pm - 4:45pm","Gibson Hall 211","Using Anthropology","",Open,25,35,0
+19631,ANTH,3240,100,Lecture,"3","Kasey Jernigan","MoWe 10:00am - 10:50am","Gilmer Hall 257","The Anthropology of Food","",Wait List,60,60,19
+19633,ANTH,3240,101,Discussion,"0","Trishita Shandilya","We 12:00pm - 12:50pm","Brooks Hall 103","The Anthropology of Food","",Wait List,20,20,9
+19634,ANTH,3240,102,Discussion,"0","Trishita Shandilya","We 1:00pm - 1:50pm","Brooks Hall 103","The Anthropology of Food","",Wait List,20,20,6
+19635,ANTH,3240,103,Discussion,"0","Trishita Shandilya","Fr 12:00pm - 12:50pm","The Rotunda Room 152","The Anthropology of Food","",Wait List,20,20,5
+19315,ANTH,3280,001,SEM,"3","Kasey Jernigan","MoWe 2:00pm - 2:50pm","New Cabell Hall 364","Introduction to Native American Studies: (Mis)Representations","",Closed,30,30,0
+19636,ANTH,3390,001,Lecture,"3","Gertrude Fraser","TuTh 3:30pm - 4:20pm","Ridley Hall G004","Pregnancy, Birthing and the Post-Partum","",Wait List,59,60,29
+13012,ANTH,3590,001,Lecture,"3","George Mentore","TuTh 11:00am - 12:15pm","The Rotunda Room 150","Social and Cultural Anthropology","War: A Cross-Cultural Study of Armed Conflict",Wait List,24,25,3
+14030,ANTH,3590,002,Lecture,"3","Randall Puckett","TuTh 6:00pm - 7:15pm","Clark Hall G004","Social and Cultural Anthropology","Anthropology of Appalachia",Wait List,25,25,1
+21488,ANTH,3590,003,Lecture,"3","Sebastian Jackson","TuTh 11:00am - 12:15pm","John W. Warner Hall 113","Social and Cultural Anthropology","Race, Science, and the Law",Wait List,30,30,4
+20557,ANTH,3875,001,SEM,"3","Christian Cancho Ruiz","MoWeFr 9:00am - 9:50am","The Rotunda Room 150","Pre-Columbian South America","",Open,5,25,0
+19639,ANTH,3880,001,Lecture,"3","Adria LaViolette","TuTh 9:30am - 10:45am","New Cabell Hall 168","African Archaeology","",Open,32,35,0
+12001,ANTH,4591,001,SEM,"3","Gertrude Fraser","We 4:00pm - 6:30pm","New Cabell Hall 211","Majors Seminar","Cultures of 2nd-Hand Clothing Circ & Consumption",Open,5,18,0
+18893,ARAB,4120,001,Lecture,"3","Hanadi Al-Samman","TuTh 12:30pm - 1:45pm","Pavilion VIII 105","Introduction to Arabic Drama","",Open,4,10,0
+13259,ARTH,2882,100,Lecture,"4","Henry Skerritt","MoWe 5:00pm - 6:15pm","Campbell Hall 160","Sex, Spirits & Sorcery: Modern Aboriginal Art","",Open,59,60,2
+13260,ARTH,2882,101,Discussion,"0","Barriane Franks","We 9:00am - 9:50am","Fayerweather Hall 215","Sex, Spirits & Sorcery: Modern Aboriginal Art","",Wait List,20,20,0
+13261,ARTH,2882,102,Discussion,"0","Barriane Franks","Fr 12:00pm - 12:50pm","Fayerweather Hall 215","Sex, Spirits & Sorcery: Modern Aboriginal Art","",Open,19,20,1
+13262,ARTH,2882,103,Discussion,"0","Barriane Franks","Fr 11:00am - 11:50am","Fayerweather Hall 215","Sex, Spirits & Sorcery: Modern Aboriginal Art","",Wait List,20,20,1
+11827,ARTH,4952,001,Lecture,"3","Melissa Love","Fr 10:00am - 12:30pm","Fayerweather Hall 208","University Museums Internship","",Open,9,12,0
+20239,ARTR,3245,001,Lecture,"3","Nizar Hermes","Mo 3:30pm - 6:00pm","New Cabell Hall 027","Arabic Literary Delights","",Open,10,20,0
+13816,ARTR,3350,001,Lecture,"3","Hanadi Al-Samman","TuTh 11:00am - 12:15pm","New Cabell Hall 268","Introduction to Arab Women's Literature","",Open,11,19,0
+12184,CHIN,3020,001,Lecture,"3","Miao-Fen Tseng","MoWeFr 11:00am - 11:50am","New Cabell Hall 042","Pre-Advanced Chinese II","",Open,8,12,0
+12266,CHIN,3020,002,Lecture,"3","Jun Wang","MoWeFr 2:00pm - 2:50pm","Shea House 211","Pre-Advanced Chinese II","",Open,11,12,0
+13690,CHIN,3020,003,Lecture,"3","Miao-Fen Tseng","MoWeFr 10:00am - 10:50am","New Cabell Hall 042","Pre-Advanced Chinese II","",Open,7,12,0
+10628,CHIN,4020,001,Lecture,"3","Ran Zhao","MoWeFr 10:00am - 10:50am","New Cabell Hall 315","Advanced Chinese II","",Wait List,14,12,0
+13962,CHIN,4030,001,Lecture,"3","Miao-Fen Tseng","MoWeFr 1:00pm - 1:50pm","New Cabell Hall 042","Business Chinese","",Open,7,12,0
+18970,CHTR,3840,001,SEM,"3","Charles Laughlin","TuTh 3:30pm - 4:45pm","Bryan Hall 235","Writing Women in Modern China","",Wait List,29,30,8
+21425,CHTR,3850,001,SEM,"3","Charles Laughlin","Fr 2:00pm - 4:30pm","New Cabell Hall 411","Documentary Writing and Film in China","",Wait List,20,20,0
+19094,CHTR,4010,001,SEM,"3","Anne Kinney","TuTh 12:30pm - 1:45pm","Bryan Hall 203","Legendary Women in Early China","",Wait List,17,18,1
+11947,CHTR,4991,001,SEM,"1","Anne Kinney","TBA","TBA","Chinese Capstone","",Open,4,10,0
+10629,CLAS,2040,100,Lecture,"3","John Miller","MoWe 10:00am - 10:50am","John W. Warner Hall 209","Greek Mythology","",Open,228,240,11
+10630,CLAS,2040,101,Discussion,"0","Kelly Freestone","Th 8:30am - 9:20am","Cocke Hall 101","Greek Mythology","",Wait List,19,20,1
+10631,CLAS,2040,102,Discussion,"0","Kelly Freestone","Th 9:30am - 10:20am","Gibson Hall 142","Greek Mythology","",Wait List,18,20,1
+10634,CLAS,2040,103,Discussion,"0","Morgan Amonett","Th 9:00am - 9:50am","New Cabell Hall 287","Greek Mythology","",Wait List,17,18,1
+10632,CLAS,2040,104,Discussion,"0","Camilla Basile","Th 1:00pm - 1:50pm","New Cabell Hall 283","Greek Mythology","",Wait List,20,20,5
+10633,CLAS,2040,105,Discussion,"0","Kelly Freestone","Fr 9:00am - 9:50am","Cocke Hall 101","Greek Mythology","",Open,19,20,0
+12011,CLAS,2040,106,Discussion,"0","Camilla Basile","Fr 10:00am - 10:50am","New Cabell Hall 283","Greek Mythology","",Wait List,20,20,0
+10963,CLAS,2040,107,Discussion,"0","Camilla Basile","Fr 12:00pm - 12:50pm","Cocke Hall 101","Greek Mythology","",Wait List,19,20,1
+11534,CLAS,2040,108,Discussion,"0","Morgan Amonett","Fr 1:00pm - 1:50pm","Cocke Hall 101","Greek Mythology","",Wait List,20,20,0
+10964,CLAS,2040,109,Discussion,"0","Morgan Amonett","Fr 2:00pm - 2:50pm","New Cabell Hall 211","Greek Mythology","",Open,19,20,0
+21192,CLAS,2040,110,Discussion,"0","Carl Hamilton","Fr 12:00pm - 12:50pm","New Cabell Hall 211","Greek Mythology","",Open,19,20,2
+21193,CLAS,2040,111,Discussion,"0","Carl Hamilton","Fr 2:00pm - 2:50pm","TBA","Greek Mythology","",Open,19,20,0
+21194,CLAS,2040,112,Discussion,"0","Carl Hamilton","Fr 3:00pm - 3:50pm","TBA","Greek Mythology","",Open,19,20,0
+19278,CLAS,3220,001,Lecture,"3","Inger Neeltje Irene Kuin","MoWe 3:30pm - 4:45pm","New Cabell Hall 383","Race and Ethnicity in Ancient Greece and Rome","",Open,27,30,0
+18903,EAST,1010,100,Lecture,"3","Canaan Morse","MoWe 4:00pm - 4:50pm","Claude Moore Nursing Educ G120","East Asian Canons and Cultures","",Wait List,60,60,14
+18904,EAST,1010,101,Discussion,"0","Luke Xu","Th 5:00pm - 5:50pm","New Cabell Hall 338","East Asian Canons and Cultures","",Wait List,20,20,8
+18905,EAST,1010,102,Discussion,"0","Luke Xu","Th 6:00pm - 6:50pm","New Cabell Hall 338","East Asian Canons and Cultures","",Wait List,20,20,3
+18906,EAST,1010,103,Discussion,"0","Luke Xu","Th 7:00pm - 7:50pm","New Cabell Hall 338","East Asian Canons and Cultures","",Wait List,20,20,3
+19910,ENGL,3610,100,Lecture,"3","Michael Levenson","MoWe 12:00pm - 12:50pm","Minor Hall 125","Global Cultural Studies","",Open,119,120,0
+20029,ENGL,3610,101,Discussion,"0","Aindrila Choudhury","We 5:00pm - 5:50pm","New Cabell Hall 064","Global Cultural Studies","",Closed,15,15,0
+20030,ENGL,3610,102,Discussion,"0","Aindrila Choudhury","We 6:00pm - 6:50pm","Cocke Hall 101","Global Cultural Studies","",Open,14,15,0
+20031,ENGL,3610,103,Discussion,"0","Tochi Eze","Th 3:30pm - 4:20pm","New Cabell Hall 064","Global Cultural Studies","",Closed,16,15,0
+20032,ENGL,3610,104,Discussion,"0","Tochi Eze","Th 4:30pm - 5:20pm","New Cabell Hall 064","Global Cultural Studies","",Closed,15,15,0
+20033,ENGL,3610,105,Discussion,"0","Lauren Parker","Fr 10:00am - 10:50am","New Cabell Hall 064","Global Cultural Studies","",Closed,15,15,0
+20034,ENGL,3610,106,Discussion,"0","Lauren Parker","Fr 11:00am - 11:50am","New Cabell Hall 056","Global Cultural Studies","",Open,14,15,0
+20634,ENGL,3610,107,Discussion,"0","Zoe Kempf-Harris","Fr 10:00am - 10:50am","New Cabell Hall 489","Global Cultural Studies","",Closed,15,15,0
+20635,ENGL,3610,108,Discussion,"0","Zoe Kempf-Harris","Fr 11:00am - 11:50am","Bryan Hall 328","Global Cultural Studies","",Closed,15,15,0
+19911,ENGL,3610,200,Lecture,"3","Michael Levenson","MoWe 2:00pm - 2:50pm","Physics Bldg 338","Global Cultural Studies","",Open,87,90,0
+20035,ENGL,3610,201,Discussion,"0","Tarushi Sonthalia","We 5:00pm - 5:50pm","Lower West Oval Room 102","Global Cultural Studies","",Closed,15,15,0
+20036,ENGL,3610,202,Discussion,"0","Tarushi Sonthalia","We 6:00pm - 6:50pm","The Rotunda Room 150","Global Cultural Studies","",Closed,15,15,0
+20037,ENGL,3610,203,Discussion,"0","Sam Jacob","Th 3:30pm - 4:20pm","Dawson's Row 1","Global Cultural Studies","",Closed,15,15,0
+20038,ENGL,3610,204,Discussion,"0","Sam Jacob","Th 5:00pm - 5:50pm","New Cabell Hall 068","Global Cultural Studies","",Closed,15,15,0
+20039,ENGL,3610,205,Discussion,"0","Shane Weitzman","Fr 11:00am - 11:50am","New Cabell Hall 044","Global Cultural Studies","",Open,14,15,0
+20040,ENGL,3610,206,Discussion,"0","Shane Weitzman","Fr 12:00pm - 12:50pm","New Cabell Hall 036","Global Cultural Studies","",Open,13,15,0
+14395,ENGL,3740,100,Lecture,"3","Sylvia Chong","MoWe 10:00am - 10:50am","Ridley Hall G004","Introduction to Asian American Studies","",Open,59,60,0
+14396,ENGL,3740,101,Discussion,"0","Xiwen Wang","Fr 12:00pm - 12:50pm","New Cabell Hall 066","Introduction to Asian American Studies","",Closed,15,15,0
+14397,ENGL,3740,102,Discussion,"0","Xiwen Wang","Fr 9:00am - 9:50am","Dawson's Row 1","Introduction to Asian American Studies","",Open,14,15,0
+14398,ENGL,3740,103,Discussion,"0","Katie Wu","Fr 11:00am - 11:50am","Dell 1 104","Introduction to Asian American Studies","",Closed,15,15,0
+14399,ENGL,3740,104,Discussion,"0","Katie Wu","Fr 10:00am - 10:50am","Dell 1 104","Introduction to Asian American Studies","",Closed,15,15,0
+14571,ETP,3500,001,SEM,"3","Michael Carter Jr., Lisa Shutt","Tu 2:00pm - 4:30pm","New Cabell Hall 303","Topics in Environmental Thought and Practice","Africulture: The African Roots of US Agriculture",Open,17,20,0
+11864,FREN,3031,001,SEM,"3","Karen James","MoWeFr 12:00pm - 12:50pm","New Cabell Hall 407","Finding Your Voice in French","",Open,8,15,0
+11865,FREN,3031,002,SEM,"3","Rachel Geer","MoWeFr 1:00pm - 1:50pm","New Cabell Hall 211","Finding Your Voice in French","",Wait List,15,15,0
+13372,FREN,3031,003,SEM,"3","Cheryl Krueger","TuTh 12:30pm - 1:45pm","New Cabell Hall 291","Finding Your Voice in French","",Wait List,16,15,0
+12205,FREN,3032,001,SEM,"3","Ferial Boutaghou","TuTh 9:30am - 10:45am","New Cabell Hall 042","Text, Image, Culture","",Open,13,15,0
+11866,FREN,3032,002,SEM,"3","Amy Ogden","TuTh 11:00am - 12:15pm","French House 100","Text, Image, Culture","",Open,6,15,0
+11867,FREN,3032,003,SEM,"3","Spyridon Simotas","MoWe 3:30pm - 4:45pm","New Cabell Hall 066","Text, Image, Culture","",Open,14,15,0
+19710,FREN,3032,004,SEM,"3","Nnenna Onyima","MoWe 2:00pm - 3:15pm","Pavilion VIII 102","Text, Image, Culture","",Open,8,15,0
+19664,FREN,3037,001,SEM,"3","Karen James","MoWeFr 10:00am - 10:50am","New Cabell Hall 191","French for Global Development and Humanitarian Action","",Wait List,20,20,6
+19663,FREN,3043,001,SEM,"3","Claire Lyu","TuTh 12:30pm - 1:45pm","Nau Hall 142","The French-Speaking World III: Modernities","",Open,17,20,0
+19661,FREN,4410,001,SEM,"3","Jennifer Tsien","We 3:30pm - 6:00pm","Clemons Library 320","The Enlightenment","",Wait List,19,19,1
+13370,FREN,4585,001,Lecture,"3","Ferial Boutaghou","TuTh 12:30pm - 1:45pm","French House 100","Advanced Topics in Cultural Studies","Mediterranean Journeys: Exchanges and Interactions",Wait List,15,15,0
+19899,GDS,3113,001,SEM,"4","Cliff Maxwell","TuTh 3:30pm - 5:15pm","Contemplative Commons Room 304","A Buddhist Approach to Development","",Closed,24,24,0
+20075,GDS,3114,001,Lecture,"3","David Edmunds","TuTh 12:30pm - 1:45pm","Old Cabell Hall 107","Science, Technology and Development","",Wait List,45,45,33
+11774,GERM,3000,001,SEM,"3","Marcel Schmid","TuTh 9:30am - 10:45am","New Cabell Hall 058","Advanced German","",Open,7,18,0
+19305,GREE,3020,001,Lecture,"3","Coulter George","MoWe 2:00pm - 3:15pm","Cocke Hall 101","Advanced Reading in Greek","",Open,7,15,0
+20687,GSGS,3030,100,Lecture,"3","Michael Levenson","MoWe 12:00pm - 12:50pm","Minor Hall 125","Global Cultural Studies","",Open,119,120,0
+20688,GSGS,3030,101,Discussion,"0","Aindrila Choudhury","We 5:00pm - 5:50pm","New Cabell Hall 064","Global Cultural Studies","",Closed,15,15,0
+20689,GSGS,3030,102,Discussion,"0","Aindrila Choudhury","We 6:00pm - 6:50pm","Cocke Hall 101","Global Cultural Studies","",Open,14,15,0
+20690,GSGS,3030,103,Discussion,"0","Tochi Eze","Th 3:30pm - 4:20pm","New Cabell Hall 064","Global Cultural Studies","",Closed,16,15,0
+20691,GSGS,3030,104,Discussion,"0","Tochi Eze","Th 4:30pm - 5:20pm","New Cabell Hall 064","Global Cultural Studies","",Closed,15,15,0
+20692,GSGS,3030,105,Discussion,"0","Lauren Parker","Fr 10:00am - 10:50am","New Cabell Hall 064","Global Cultural Studies","",Closed,15,15,0
+20693,GSGS,3030,106,Discussion,"0","Lauren Parker","Fr 11:00am - 11:50am","New Cabell Hall 056","Global Cultural Studies","",Open,14,15,0
+20694,GSGS,3030,107,Discussion,"0","Zoe Kempf-Harris","Fr 10:00am - 10:50am","New Cabell Hall 489","Global Cultural Studies","",Closed,15,15,0
+20695,GSGS,3030,108,Discussion,"0","Zoe Kempf-Harris","Fr 11:00am - 11:50am","Bryan Hall 328","Global Cultural Studies","",Closed,15,15,0
+20696,GSGS,3030,200,Lecture,"3","Michael Levenson","MoWe 2:00pm - 2:50pm","Physics Bldg 338","Global Cultural Studies","",Open,87,90,0
+20697,GSGS,3030,201,Discussion,"0","Tarushi Sonthalia","We 5:00pm - 5:50pm","Lower West Oval Room 102","Global Cultural Studies","",Closed,15,15,0
+20698,GSGS,3030,202,Discussion,"0","Tarushi Sonthalia","We 6:00pm - 6:50pm","The Rotunda Room 150","Global Cultural Studies","",Closed,15,15,0
+20699,GSGS,3030,203,Discussion,"0","Sam Jacob","Th 3:30pm - 4:20pm","Dawson's Row 1","Global Cultural Studies","",Closed,15,15,0
+20700,GSGS,3030,204,Discussion,"0","Sam Jacob","Th 5:00pm - 5:50pm","New Cabell Hall 068","Global Cultural Studies","",Closed,15,15,0
+20701,GSGS,3030,205,Discussion,"0","Shane Weitzman","Fr 11:00am - 11:50am","New Cabell Hall 044","Global Cultural Studies","",Open,14,15,0
+20702,GSGS,3030,206,Discussion,"0","Shane Weitzman","Fr 12:00pm - 12:50pm","New Cabell Hall 036","Global Cultural Studies","",Open,13,15,0
+13355,HIAF,2002,001,Lecture,"4","Emily Burrill, Soumya Johri","TuTh 11:00am - 12:15pm","Gilmer Hall 257","Modern African History","",Open,57,60,4
+19178,HIAF,3051,001,Lecture,"3","James La Fleur","TuTh 12:30pm - 1:45pm","Nau Hall 141","West African History","",Wait List,30,30,6
+19176,HIEA,2011,001,Lecture,"3","Cong Zhang","TuTh 11:00am - 12:15pm","Gibson Hall 141","History of Chinese Civilization","",Open,26,30,4
+14058,HIEA,2031,100,Lecture,"3","Xiaoyuan Liu","MoWe 1:00pm - 1:50pm","John W. Warner Hall 104","Modern China","",Open,58,60,4
+14303,HIEA,2031,101,Discussion,"0","Zejun Wang","Th 4:00pm - 4:50pm","John W. Warner Hall 113","Modern China","",Wait List,19,20,2
+14304,HIEA,2031,102,Discussion,"0","Zejun Wang","Th 5:00pm - 5:50pm","Gibson Hall 142","Modern China","",Wait List,20,20,2
+14305,HIEA,2031,103,Discussion,"0","Zejun Wang","Th 6:00pm - 6:50pm","Gibson Hall 142","Modern China","",Open,19,20,0
+14053,HIEA,2101,100,Lecture,"3","Joseph Seeley","MoWe 10:00am - 10:50am","Ridley Hall G008","Modern Korean History: One Peninsula, Two Paths","",Wait List,120,120,6
+14442,HIEA,2101,101,Discussion,"0","Emily Needham","We 6:00pm - 6:50pm","Nau Hall 142","Modern Korean History: One Peninsula, Two Paths","",Wait List,20,20,1
+14443,HIEA,2101,102,Discussion,"0","Emily Needham","We 5:00pm - 5:50pm","Nau Hall 241","Modern Korean History: One Peninsula, Two Paths","",Wait List,20,20,0
+14444,HIEA,2101,103,Discussion,"0","Emily Needham","We 7:00pm - 7:50pm","New Cabell Hall 058","Modern Korean History: One Peninsula, Two Paths","",Wait List,20,20,2
+14445,HIEA,2101,104,Discussion,"0","Abby Lovett","Fr 10:00am - 10:50am","Bryan Hall 328","Modern Korean History: One Peninsula, Two Paths","",Wait List,20,20,2
+14446,HIEA,2101,105,Discussion,"0","Abby Lovett","Th 5:00pm - 5:50pm","Gibson Hall 241","Modern Korean History: One Peninsula, Two Paths","",Wait List,20,20,0
+14447,HIEA,2101,106,Discussion,"0","Abby Lovett","Th 6:00pm - 6:50pm","Gibson Hall 241","Modern Korean History: One Peninsula, Two Paths","",Wait List,20,20,1
+20954,HIEA,3481,001,Lecture,"3","Robert Stolz","TuTh 11:00am - 12:15pm","New Cabell Hall 032","Postwar Japan","",Closed,30,30,1
+19143,HIEU,3021,100,Lecture,"3","Jon Lendon","MoWe 12:00pm - 12:50pm","Nau Hall 211","Greek and Roman Warfare","",Open,45,60,0
+19144,HIEU,3021,101,Discussion,"0","Henry Lanphier","We 3:00pm - 3:50pm","Shannon House 111","Greek and Roman Warfare","",Open,16,20,0
+19145,HIEU,3021,102,Discussion,"0","Henry Lanphier","We 4:00pm - 4:50pm","Shannon House 111","Greek and Roman Warfare","",Open,16,20,0
+19146,HIEU,3021,103,Discussion,"0","Henry Lanphier","We 5:00pm - 5:50pm","Shannon House 107","Greek and Roman Warfare","",Open,13,20,0
+19126,HIEU,3141,100,Lecture,"3","Paul Kershaw","MoWe 11:00am - 11:50am","John W. Warner Hall 104","Age of Conquests: Britain from the Romans to the Normans (43-1066)","",Open,37,60,0
+19127,HIEU,3141,101,Discussion,"0","Tyler Hengst","Th 5:00pm - 5:50pm","Gibson Hall 141","Age of Conquests: Britain from the Romans to the Normans (43-1066)","",Wait List,20,20,0
+19128,HIEU,3141,102,Discussion,"0","Tyler Hengst","Th 6:00pm - 6:50pm","Gibson Hall 141","Age of Conquests: Britain from the Romans to the Normans (43-1066)","",Open,11,20,0
+19129,HIEU,3141,103,Discussion,"0","Tyler Hengst","Th 7:00pm - 7:50pm","Gibson Hall 141","Age of Conquests: Britain from the Romans to the Normans (43-1066)","",Open,6,20,0
+13064,HILA,3021,100,Lecture,"3","Lean Sweeney","MoWe 12:00pm - 12:50pm","Gibson Hall 211","Human Rights in Latin America","",Open,59,60,8
+14448,HILA,3021,101,Discussion,"0","Josue Godoy","Fr 10:00am - 10:50am","Gibson Hall 241","Human Rights in Latin America","",Wait List,20,20,4
+14449,HILA,3021,102,Discussion,"0","Josue Godoy","Fr 9:00am - 9:50am","Gibson Hall 241","Human Rights in Latin America","",Open,19,20,0
+14450,HILA,3021,103,Discussion,"0","Josue Godoy","Fr 11:00am - 11:50am","Nau Hall 241","Human Rights in Latin America","",Wait List,20,20,4
+14169,HIME,2001,001,Lecture,"4","Kristina Richardson","TuTh 11:00am - 12:15pm","New Cabell Hall 058","The Making of the Islamic World","",Wait List,35,35,18
+14579,HIND,3012,001,Lecture,"3","Abdul Nasir","TuTh 12:30pm - 1:45pm","New Cabell Hall 144","Learn Hindi via Bollywood","",Open,9,10,1
+13367,HIUS,3011,100,Lecture,"3","S. Edelson","MoWe 2:30pm - 3:45pm","McLeod Hall 1003","Colonial British America","",Open,20,30,0
+19174,HIUS,3051,001,Lecture,"3","Christa Dierksheide","TuTh 11:00am - 12:15pm","New Cabell Hall 368","The Age of Jefferson","",Wait List,28,28,13
+19213,ITTR,3680,001,Lecture,"3","Francesca Calamita","MoWe 5:00pm - 6:15pm","New Cabell Hall 283","Eve's Sinful Bite: Foodscapes in Women's Writing Culture and Society","",Closed,10,10,0
+19062,JAPN,3300,001,SEM,"3","Tomoko Marshall","TuTh 12:30pm - 1:45pm","New Cabell Hall 042","Japanese Food for Thought","",Open,7,12,0
+13952,JPTR,3020,001,Lecture,"3","Anri Yasuda","TuTh 2:00pm - 3:15pm","New Cabell Hall 332","Survey of Modern Japanese Literature","",Wait List,23,23,4
+19097,JPTR,3100,001,SEM,"3","Gustav Heldt","TuTh 5:00pm - 6:15pm","New Cabell Hall 395","Myths and Legends of Japan","",Wait List,20,20,1
+21301,JPTR,3290,001,Lecture,"3","Gustav Heldt","TuTh 3:30pm - 4:45pm","Shea House 211","Feminine Fictions in Japanese Court Literature","",Open,3,18,0
+18831,JPTR,3391,001,SEM,"3","Anri Yasuda","We 2:00pm - 4:30pm","Bryan Hall 203","Women in Modern Japanese Literature","",Wait List,18,18,2
+13948,KRTR,3030,001,Lecture,"3","HeeJin Lee","TuTh 2:00pm - 3:15pm","Cocke Hall 115","Survey of Korean Cinema","",Wait List,20,20,9
+21312,KRTR,3700,001,Lecture,"3","HeeJin Lee","MoWe 2:00pm - 3:15pm","New Cabell Hall 064","Survey of Contemporary South Korean Popular Culture","",Open,15,18,0
+19308,LATI,3110,001,Lecture,"3","Karen Myers","MoWeFr 10:00am - 10:50am","New Cabell Hall 411","Ovid","",Open,17,20,0
+13022,LNGS,3260,001,Lecture,"3","Mark Elson","MoWe 2:00pm - 3:15pm","New Cabell Hall 303","Introduction to Comparative-Historical Linguistics","",Closed,15,15,0
+12946,MDST,3504,003,SEM,"3","Keara Goin","TuTh 2:00pm - 3:15pm","Wilson Hall 214","Topics in Global Media","Mexican Cinema",Open,26,28,0
+20243,MESA,2300,001,Lecture,"3","Richard Cohen","TuTh 2:00pm - 3:15pm","Nau Hall 211","Crossing Borders: Middle East and South Asia","",Closed,60,60,0
+14639,MESA,4999,001,SEM,"6","Kristina Richardson","TBA","TBA","Middle Eastern and South Asian Studies Senior Thesis II","",Open,0,30,0
+21027,MESA,4999,002,SEM,"6","Zvi Gilboa","TBA","TBA","Middle Eastern and South Asian Studies Senior Thesis II","",Open,1,30,0
+21028,MESA,4999,003,SEM,"6","Nizar Hermes","TBA","TBA","Middle Eastern and South Asian Studies Senior Thesis II","",Open,0,30,0
+21029,MESA,4999,004,SEM,"6","Caroline Kahlenberg","TBA","TBA","Middle Eastern and South Asian Studies Senior Thesis II","",Open,1,30,0
+18908,MEST,2280,001,Lecture,"3","Kristina Richardson","TuTh 2:00pm - 3:15pm","New Cabell Hall 315","A Guide to Medieval Baghdad","",Open,21,25,0
+21063,MEST,2470,001,Lecture,"3","Daniel Lefkowitz","TuTh 11:00am - 12:15pm","Pavilion VIII 108","Reflections of Exile: Jewish Languages and their Communities","",Open,4,9,0
+14565,MEST,3282,001,Lecture,"3","Baris Unlu","MoWe 3:30pm - 4:45pm","New Cabell Hall 338","The Ottoman Empire: State, Society, Culture","",Open,28,30,0
+19335,PLCP,3110,100,Lecture,"3","Gerard Alexander","MoWe 9:00am - 9:50am","Nau Hall 211","The Politics of Western Europe","",Wait List,60,60,7
+19336,PLCP,3110,101,Discussion,"0","To Be Announced","Th 5:00pm - 5:50pm","New Cabell Hall 115","The Politics of Western Europe","",Wait List,20,20,3
+19337,PLCP,3110,102,Discussion,"0","To Be Announced","Th 6:00pm - 6:50pm","Pavilion VIII 102","The Politics of Western Europe","",Wait List,20,20,2
+19338,PLCP,3110,103,Discussion,"0","To Be Announced","Th 7:00pm - 7:50pm","New Cabell Hall 291","The Politics of Western Europe","",Wait List,20,20,2
+14480,PLCP,4201,001,SEM,"3","Carol Mershon","TuTh 2:00pm - 3:15pm","Nau Hall 241","Comparative Political Parties","",Wait List,15,15,3
+13301,PLIR,2030,100,Lecture,"3","Len Schoppa","MoWe 10:00am - 10:50am","Minor Hall 125","International Relations of East Asia","",Wait List,120,120,4
+13302,PLIR,2030,101,Discussion,"0","Ghita Chraibi","We 8:00pm - 8:50pm","Shannon House 111","International Relations of East Asia","",Wait List,20,20,0
+13303,PLIR,2030,102,Discussion,"0","Ghita Chraibi","We 6:00pm - 6:50pm","Shannon House 111","International Relations of East Asia","",Wait List,20,20,4
+13304,PLIR,2030,103,Discussion,"0","Ghita Chraibi","We 7:00pm - 7:50pm","Shannon House 111","International Relations of East Asia","",Wait List,20,20,0
+13305,PLIR,2030,104,Discussion,"0","Audrey Wood","Th 5:00pm - 5:50pm","Nau Hall 142","International Relations of East Asia","",Wait List,20,20,0
+13306,PLIR,2030,105,Discussion,"0","Audrey Wood","Th 6:00pm - 6:50pm","Nau Hall 241","International Relations of East Asia","",Wait List,20,20,0
+13307,PLIR,2030,106,Discussion,"0","Audrey Wood","Th 7:00pm - 7:50pm","Nau Hall 241","International Relations of East Asia","",Wait List,20,20,0
+19374,PLPT,4060,001,SEM,"3","Lawrie Balfour","Tu 4:45pm - 7:15pm","Gibson Hall 241","Politics & Literature","",Closed,18,15,0
+20678,PORT,3030,001,Lecture,"3","Lilian Feitosa","MoWe 2:00pm - 3:15pm","Bryan Hall 332","Perspectives on Lusophone Cultures","",Open,13,18,0
+13839,RELA,2748,001,Lecture,"3","Oludamini Ogunnaike","Tu 6:00pm - 8:30pm","New Cabell Hall 338","Introduction to African Philosophy: Race, Religion, and Rationality","",Closed,26,25,3
+19249,RELA,2850,100,Lecture,"3","Jalane Schmidt","TuTh 2:00pm - 3:15pm","New Cabell Hall 115","Afro- Creole Religions in the Americas","",Open,10,20,0
+19252,RELA,3890,100,Lecture,"3","Cynthia Hoehler-Fatton","TuTh 12:30pm - 1:45pm","Nau Hall 241","Christianity in Africa","",Closed,20,20,0
+19260,RELB,3000,100,Lecture,"3","David Germano","Tu 3:30pm - 6:00pm","New Cabell Hall 383","Poetry and Meditation","",Open,17,20,2
+20795,RELB,3180,100,Lecture,"3","Tamara Cohen","TuTh 2:00pm - 3:15pm","New Cabell Hall 415","Nondualism","",Open,19,20,0
+12972,RELC,1210,100,Lecture,"3","Philip Tite","TuTh 12:30pm - 1:45pm","Gibson Hall 211","Hebrew Bible/Old Testament","",Closed,40,40,0
+19265,RELC,2401,001,SEM,"3","James Henry","TuTh 11:00am - 12:15pm","Nau Hall 142","History of American Catholicism","",Wait List,20,20,5
+19253,RELC,3890,100,Lecture,"3","Cynthia Hoehler-Fatton","TuTh 12:30pm - 1:45pm","Nau Hall 241","Christianity in Africa","",Closed,20,20,0
+19276,RELG,1000,001,SEM,"3","Sam Shuman, Karl Shuve","TuTh 11:00am - 12:15pm","Gibson Hall 142","Questions in the Study of Religion","",Wait List,20,20,3
+21268,RELG,1000,002,SEM,"3","Jalane Schmidt","TuTh 12:30pm - 1:45pm","New Cabell Hall 038","Questions in the Study of Religion","",Closed,12,12,0
+13475,RELG,1040,100,Lecture,"3","Michael Allen","MoWe 1:00pm - 1:50pm","Wilson Hall 402","Introduction to Asian Religions","",Wait List,236,240,24
+13476,RELG,1040,101,Discussion,"0","Blaine Patrick Werner","We 5:00pm - 5:50pm","Nau Hall 242","Introduction to Asian Religions","",Wait List,22,22,5
+13477,RELG,1040,102,Discussion,"0","Blaine Patrick Werner","We 6:00pm - 6:50pm","New Cabell Hall 291","Introduction to Asian Religions","",Wait List,19,20,1
+13478,RELG,1040,103,Discussion,"0","Blaine Patrick Werner","We 7:00pm - 7:50pm","New Cabell Hall 183","Introduction to Asian Religions","",Wait List,18,18,1
+13479,RELG,1040,104,Discussion,"0","Abhyudaya Mandal","Th 5:00pm - 5:50pm","New Cabell Hall 183","Introduction to Asian Religions","",Wait List,19,20,4
+13480,RELG,1040,105,Discussion,"0","Abhyudaya Mandal","Th 6:00pm - 6:50pm","New Cabell Hall 407","Introduction to Asian Religions","",Wait List,20,20,1
+13481,RELG,1040,106,Discussion,"0","Abhyudaya Mandal","Th 7:00pm - 7:50pm","New Cabell Hall 032","Introduction to Asian Religions","",Wait List,19,20,1
+13482,RELG,1040,107,Discussion,"0","Anna Guterman","Fr 10:00am - 10:50am","Nau Hall 141","Introduction to Asian Religions","",Wait List,20,20,0
+13483,RELG,1040,108,Discussion,"0","Karma Rigzin","Fr 11:00am - 11:50am","Gibson Hall 242","Introduction to Asian Religions","",Wait List,19,20,2
+13484,RELG,1040,109,Discussion,"0","Anna Guterman","Fr 12:00pm - 12:50pm","Gibson Hall 142","Introduction to Asian Religions","",Wait List,20,20,1
+13485,RELG,1040,110,Discussion,"0","Anna Guterman","Fr 1:00pm - 1:50pm","Gibson Hall 241","Introduction to Asian Religions","",Wait List,20,20,0
+13486,RELG,1040,111,Discussion,"0","Karma Rigzin","Fr 12:00pm - 12:50pm","Gibson Hall 241","Introduction to Asian Religions","",Wait List,20,20,1
+13487,RELG,1040,112,Discussion,"0","Karma Rigzin","Fr 1:00pm - 1:50pm","Nau Hall 241","Introduction to Asian Religions","",Wait List,20,20,0
+10893,RELG,2160,100,Lecture,"3","Heather Warren","MoWe 10:00am - 10:50am","John W. Warner Hall 104","Religion in American Life and Thought from 1865 to the Present","",Open,58,60,2
+11550,RELG,2160,101,Discussion,"0","Lauren Wheeler","Th 7:00pm - 7:50pm","New Cabell Hall 132","Religion in American Life and Thought from 1865 to the Present","",Wait List,18,20,2
+11551,RELG,2160,102,Discussion,"0","Lauren Wheeler","Th 5:00pm - 5:50pm","New Cabell Hall 187","Religion in American Life and Thought from 1865 to the Present","",Wait List,20,20,0
+11552,RELG,2160,103,Discussion,"0","Lauren Wheeler","Th 6:00pm - 6:50pm","New Cabell Hall 187","Religion in American Life and Thought from 1865 to the Present","",Wait List,20,20,0
+19283,RELG,3416,001,SEM,"3","Michael Allen","MoWe 3:30pm - 4:45pm","New Cabell Hall 287","Sustainability and Asceticism","",Wait List,20,20,5
+20671,RELH,3140,100,Lecture,"3","Matthew Leveille","MoWe 2:00pm - 3:15pm","New Cabell Hall 183","The Jain Tradition","",Open,9,18,0
+20807,RELH,3180,100,SEM,"3","Tamara Cohen","TuTh 2:00pm - 3:15pm","New Cabell Hall 415","Nondualism","",Open,19,20,0
+13491,RELI,2080,001,Lecture,"3","Ahmed al-Rahim","TuTh 11:00am - 12:15pm","New Cabell Hall 309","Global Islam","",Open,39,40,0
+12971,RELJ,1210,001,Lecture,"3","Philip Tite","TuTh 12:30pm - 1:45pm","Gibson Hall 211","Hebrew Bible/Old Testament","",Closed,40,40,0
+13888,RELJ,2030,001,Lecture,"3","Elizabeth Alexander","MoWe 2:00pm - 3:15pm","Nau Hall 141","Judaism, Roots and Rebellion","",Open,12,20,0
+19299,RELJ,3350,100,Lecture,"3","Elizabeth Alexander","TuTh 12:30pm - 1:45pm","Gilmer Hall 245","Judaism and Ethics","",Open,9,15,0
+19302,RELJ,3708,001,SEM,"3","Asher Biemann","TuTh 2:00pm - 3:15pm","Dell 2 102","Enduring Questions in Modern Judaism","",Open,14,20,0
+10903,RUSS,3020,001,Lecture,"3","Anna Borovskaya-Ellis","MoWeFr 10:00am - 10:50am","New Cabell Hall 303","Third-Year Russian","",Open,11,22,0
+18932,RUSS,3050,001,Lecture,"3","Mark Elson","MoWe 8:30am - 9:45am","New Cabell Hall 187","Russian Declension and Conjugation","",Open,12,15,0
+10904,RUSS,4020,001,Lecture,"3","Katia Dianina","TuTh 12:30pm - 1:45pm","New Cabell Hall 594","Fourth-Year Russian","",Open,5,15,0
+12111,RUTR,2470,001,Lecture,"3","Yuri Urbanovich","MoWe 2:00pm - 3:15pm","Wilson Hall 238","Understanding Russia: Symbols, Myths, and Archetypes of Identity","",Wait List,35,35,6
+14553,RUTR,2500,001,Lecture,"3","Madelyn Stuart","TuTh 3:30pm - 4:45pm","New Cabell Hall 395","Topics in Russian Literature","Modern Russian Culture",Open,22,25,0
+12985,RUTR,2730,001,Lecture,"3","Katia Dianina","TuTh 11:00am - 12:15pm","New Cabell Hall 232","Dostoevsky","",Open,22,25,2
+20813,RUTR,2740,001,Lecture,"3","Jason Schultz","MoWe 5:00pm - 6:15pm","Gibson Hall 242","Tolstoy in Translation","",Open,1,20,0
+11784,RUTR,3360,001,Lecture,"3","Edith Clowes","MoWe 2:00pm - 3:15pm","New Cabell Hall 132","Twentieth Century Russian Literature","",Open,13,25,0
+11580,SLAV,2360,001,Lecture,"3","Stanley Stepanic","MoWe 3:30pm - 4:45pm","Wilson Hall 301","Dracula","",Wait List,197,200,66
+19552,SLTR,3200,001,Lecture,"3","Dariusz Tolczyk","TuTh 12:30pm - 1:45pm","John W. Warner Hall 110","Poland: History and Culture","",Wait List,30,30,7
+20151,SOC,2052,100,Lecture,"3","William Wilcox","MoWe 9:00am - 9:50am","John W. Warner Hall 209","Sociology of the Family","",Open,259,260,9
+20152,SOC,2052,101,Discussion,"0","Lana Park","Fr 9:00am - 9:50am","New Cabell Hall 115","Sociology of the Family","",Wait List,20,20,1
+20153,SOC,2052,102,Discussion,"0","Lana Park","Fr 10:00am - 10:50am","New Cabell Hall 332","Sociology of the Family","",Wait List,20,20,1
+20154,SOC,2052,103,Discussion,"0","Lana Park","Fr 11:00am - 11:50am","New Cabell Hall 283","Sociology of the Family","",Wait List,20,20,0
+20155,SOC,2052,104,Discussion,"0","Michael Krieger","Fr 12:00pm - 12:50pm","New Cabell Hall 283","Sociology of the Family","",Wait List,20,20,0
+20156,SOC,2052,105,Discussion,"0","Michael Krieger","Fr 1:00pm - 1:50pm","New Cabell Hall 415","Sociology of the Family","",Wait List,20,20,1
+20157,SOC,2052,106,Discussion,"0","Michael Krieger","Fr 2:00pm - 2:50pm","New Cabell Hall 291","Sociology of the Family","",Wait List,20,20,0
+20158,SOC,2052,107,Discussion,"0","Wenhao Song","Fr 9:00am - 9:50am","New Cabell Hall 187","Sociology of the Family","",Wait List,20,20,0
+20159,SOC,2052,108,Discussion,"0","Wenhao Song","Fr 10:00am - 10:50am","New Cabell Hall 287","Sociology of the Family","",Wait List,20,20,0
+20160,SOC,2052,109,Discussion,"0","Wenhao Song","Fr 12:00pm - 12:50pm","New Cabell Hall 415","Sociology of the Family","",Wait List,20,20,1
+21492,SOC,2052,110,Discussion,"0","Jasmine Piescik","We 2:00pm - 2:50pm","Shannon House 111","Sociology of the Family","",Wait List,20,20,1
+21493,SOC,2052,111,Discussion,"0","Wenhao Song","We 12:00pm - 12:50pm","New Cabell Hall 209","Sociology of the Family","",Wait List,20,20,1
+21494,SOC,2052,112,Discussion,"0","Wenhao Song","We 1:00pm - 1:50pm","New Cabell Hall 209","Sociology of the Family","",Wait List,19,20,3
+21495,SOC,2052,113,Discussion,"0","Wenhao Song","Fr 3:00pm - 3:50pm","New Cabell Hall 364","Sociology of the Family","",Wait List,20,20,0
+13997,SOC,3310,001,Lecture,"3","David Skubby","MoWe 2:00pm - 3:15pm","New Cabell Hall 058","Sociology of Self","",Open,31,35,1
+20175,SOC,3470,001,Lecture,"3","Yingyao Wang","TuTh 12:30pm - 1:45pm","New Cabell Hall 168","Sociology of Development","",Open,33,35,0
+13998,SOC,3490,001,Lecture,"3","Ekaterina Makarova","TuTh 4:00pm - 5:15pm","New Cabell Hall 415","Cities and Cultures","",Wait List,20,20,6
+10931,SPAN,3010,001,Lecture,"3","Carlos Velazco Fernandez","MoWeFr 1:00pm - 1:50pm","New Cabell Hall 056","Finding your Voice in Spanish","",Open,14,16,0
+12206,SPAN,3010,003,Lecture,"3","Nicole Bonino","TuTh 12:30pm - 1:45pm","New Cabell Hall 183","Finding your Voice in Spanish","",Wait List,16,16,3
+11562,SPAN,3010,004,Lecture,"3","Nicole Bonino","TuTh 2:00pm - 3:15pm","New Cabell Hall 183","Finding your Voice in Spanish","",Wait List,16,16,4
+12332,SPAN,3010,005,Lecture,"3","Patricio Arriagada Soto, -","MoWeFr 10:00am - 10:50am","Shannon House 109","Finding your Voice in Spanish","",Open,11,16,0
+12351,SPAN,3010,006,Lecture,"3","Esther Poveda","TuTh 9:30am - 10:45am","New Cabell Hall 407","Finding your Voice in Spanish","",Wait List,16,16,1
+13321,SPAN,3010,007,Lecture,"3","Esther Poveda","TuTh 11:00am - 12:15pm","New Cabell Hall 407","Finding your Voice in Spanish","",Wait List,16,16,2
+20229,SPAN,3010,008,Lecture,"3","Sergio Silva","MoWeFr 11:00am - 11:50am","New Cabell Hall 485","Finding your Voice in Spanish","",Open,9,16,0
+10934,SPAN,3040,001,Lecture,"3","Maria Esparza Rodriguez","TuTh 9:30am - 10:45am","Shea House 211","Business Spanish","",Wait List,18,18,4
+12494,SPAN,3040,002,Lecture,"3","Maria Esparza Rodriguez","TuTh 11:00am - 12:15pm","Shea House 211","Business Spanish","",Open,16,18,2
+12333,SPAN,3050,001,Lecture,"3","Alicia Lopez Opere","TuTh 11:00am - 12:15pm","New Cabell Hall 191","Spanish for Medical Professionals","",Open,16,18,0
+13333,SPAN,3050,002,Lecture,"3","Alicia Lopez Opere","TuTh 12:30pm - 1:45pm","New Cabell Hall 191","Spanish for Medical Professionals","",Open,11,18,0
+10938,SPAN,3430,001,Lecture,"3","Manuel Acevedo-Reyes","MoWeFr 1:00pm - 1:50pm","New Cabell Hall 032","Contemporary Latin American Voices (1800 to the present)","",Closed,22,22,0
+21130,SPAN,3600,001,Lecture,"3","Daniel Doncel Martin","Th 5:00pm - 7:30pm","Contact Department","American History From Below (and How to Read It)","",Open,5,11,0
+11205,SPAN,4040,001,Lecture,"3","Nieves Garcia Prados","TuTh 11:00am - 12:15pm","New Cabell Hall 332","Translation from Spanish to English","",Closed,18,18,0
+12497,SPAN,4040,002,Lecture,"3","Nieves Garcia Prados","TuTh 9:30am - 10:45am","New Cabell Hall 332","Translation from Spanish to English","",Open,16,18,0
+18917,SPAN,4040,003,Lecture,"3","Erica Cobb","MoWeFr 1:00pm - 1:50pm","New Cabell Hall 191","Translation from Spanish to English","",Open,17,18,0
+18912,SPAN,4203,001,Lecture,"3","Joel Rini","TuTh 2:00pm - 3:15pm","New Cabell Hall 395","Structure of Spanish","",Open,18,22,0
+20255,SPAN,4210,001,Lecture,"3","Omar Velazquez Mendoza","MoWe 3:30pm - 4:45pm","Shannon House 107","Historical Panorama of the Spanish Language II","",Open,10,22,0
+13954,SPAN,4530,001,Lecture,"3","Lorena Albert Ferrando","TuTh 3:30pm - 4:45pm","New Cabell Hall 183","Special Topics Seminar: Language","SLA and Applied Linguistics of Spanish",Open,16,20,0
+12498,SPAN,4700,001,Lecture,"3","Samuel Amago","TuTh 2:00pm - 3:15pm","New Cabell Hall 268","Spanish Culture and Civilization","",Open,19,22,0
+20018,SPAN,4710,001,Lecture,"3","Fernando Opere","MoWe 2:00pm - 3:15pm","New Cabell Hall 383","Latin American Culture and Civilization","",Open,16,22,0
+18916,SPAN,4711,001,Lecture,"3","Fernando Opere","MoWe 3:30pm - 4:45pm","New Cabell Hall 168","1492 and the Aftermath","",Open,9,22,0
+21258,URDU,3030,001,Lecture,"3","Griffith Chaussee","TuTh 9:30am - 10:45am","New Cabell Hall 207","Prostitutes, Murder, and Insanity: The Fiction of Sa'adat Hassan Manto","",Open,6,15,0
+12872,WGS,3125,001,Lecture,"3","Tiffany King","Mo 5:00pm - 7:30pm","Minor Hall 130","Transnational Feminism","",Wait List,30,30,4
+11879,WGS,4500,001,SEM,"3","Aaron Stone","Tu 2:00pm - 4:30pm","The Rotunda Room 150","Topics in Women, Gender & Sexuality","How To Do Drag",Wait List,15,15,0

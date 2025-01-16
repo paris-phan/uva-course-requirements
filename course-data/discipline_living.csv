@@ -1,0 +1,116 @@
+ClassNumber,Mnemonic,Number,Section,Type,Units,Instructor,Days,Room,Title,Topic,Status,Enrollment,EnrollmentLimit,Waitlist
+19621,ANTH,1010,002,Lecture,"3","Ernesto Benitez","TuTh 11:00am - 12:15pm","Dell 2 102","Introduction to Anthropology","",Wait List,25,25,21
+10560,ANTH,1010,100,Lecture,"3","Eve Danziger","MoFr 12:00pm - 12:50pm","Claude Moore Nursing Educ G010","Introduction to Anthropology","",Open,104,120,2
+14012,ANTH,1010,101,Discussion,"0","David Ruiz Menjivar","Mo 5:00pm - 5:50pm","Brooks Hall 103","Introduction to Anthropology","",Wait List,19,20,1
+14013,ANTH,1010,102,Discussion,"0","David Ruiz Menjivar","Mo 6:00pm - 6:50pm","Brooks Hall 103","Introduction to Anthropology","",Wait List,20,20,0
+14014,ANTH,1010,103,Discussion,"0","David Ruiz Menjivar","Mo 7:00pm - 7:50pm","Brooks Hall 103","Introduction to Anthropology","",Open,14,20,0
+14015,ANTH,1010,104,Discussion,"0","Ntsieng Botsane","Tu 11:00am - 11:50am","New Cabell Hall 303","Introduction to Anthropology","",Open,17,20,0
+14016,ANTH,1010,105,Discussion,"0","Ntsieng Botsane","Tu 5:00pm - 5:50pm","The Rotunda Room 152","Introduction to Anthropology","",Open,17,20,0
+14017,ANTH,1010,106,Discussion,"0","Ntsieng Botsane","Tu 2:00pm - 2:50pm","The Rotunda Room 152","Introduction to Anthropology","",Wait List,17,20,1
+19640,ANTH,4420,001,Lecture,"3","Mark Sicoli","TuTh 9:30am - 10:45am","The Rotunda Room 150","Theories of Language","",Open,22,25,0
+20006,BIOL,2100,100,Lecture,"4","David Kittlesen","MoWeFr 12:00pm - 12:50pm","Chemistry Bldg 217","Introduction to Biology with Laboratory: Cell Biology & Genetics","",Wait List,77,78,6
+20007,BIOL,2100,101,Laboratory,"0","David Kittlesen","Fr 1:00pm - 3:30pm","Gilmer Hall 341","Introduction to Biology with Laboratory: Cell Biology & Genetics","",Wait List,26,26,2
+20008,BIOL,2100,102,Laboratory,"0","David Kittlesen","Fr 1:00pm - 3:30pm","Gilmer Hall 351","Introduction to Biology with Laboratory: Cell Biology & Genetics","",Wait List,26,26,3
+20009,BIOL,2100,103,Laboratory,"0","David Kittlesen","Fr 1:00pm - 3:30pm","Gilmer Hall 353","Introduction to Biology with Laboratory: Cell Biology & Genetics","",Wait List,25,26,1
+10592,BIOL,2200,001,Lecture,"4","Jessamyn Manson, -","Fr 3:30pm - 5:30pm","Chemistry Bldg 402","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,438,445,0
+11829,BIOL,2200,002,Lecture,"4","Jessamyn Manson, -","Fr 3:30pm - 5:30pm","Contact Department","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,307,465,0
+11881,BIOL,2200,101,Laboratory,"0","Jingxuan Guo, Jessamyn Manson","Mo 2:00pm - 4:30pm","Gilmer Hall 341","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11882,BIOL,2200,102,Laboratory,"0","Louis Bubrig, Jessamyn Manson","Mo 2:00pm - 4:30pm","Gilmer Hall 351","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11883,BIOL,2200,103,Laboratory,"0","Megan Alderman, Jessamyn Manson","Mo 2:00pm - 4:30pm","Gilmer Hall 353","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11884,BIOL,2200,104,Laboratory,"0","Jingxuan Guo, Jessamyn Manson","Mo 5:30pm - 8:00pm","Gilmer Hall 341","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11885,BIOL,2200,105,Laboratory,"0","Kate Knight, Jessamyn Manson","Mo 5:30pm - 8:00pm","Gilmer Hall 351","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11915,BIOL,2200,106,Laboratory,"0","Jessamyn Manson, Erik Miao","Mo 5:30pm - 8:00pm","Gilmer Hall 353","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11886,BIOL,2200,107,Laboratory,"0","Mehrael Atkins, Jessamyn Manson","Tu 10:00am - 12:30pm","Gilmer Hall 341","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,25,26,0
+11887,BIOL,2200,108,Laboratory,"0","Jessamyn Manson, Akriti Saha","Tu 10:00am - 12:30pm","Gilmer Hall 351","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,21,26,0
+11888,BIOL,2200,109,Laboratory,"0","Jessamyn Manson, Arpita Subhadarshini","Tu 10:00am - 12:30pm","Gilmer Hall 353","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,17,26,0
+11889,BIOL,2200,110,Laboratory,"0","Anna Grace Carns, Jessamyn Manson","Tu 2:00pm - 4:30pm","Gilmer Hall 341","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,1
+11890,BIOL,2200,111,Laboratory,"0","Rachel Johnston, Jessamyn Manson","Tu 2:00pm - 4:30pm","Gilmer Hall 351","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11891,BIOL,2200,112,Laboratory,"0","Emaan Kapadia, Jessamyn Manson","Tu 2:00pm - 4:30pm","Gilmer Hall 353","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11916,BIOL,2200,113,Laboratory,"0","Jessamyn Manson, Benjamin Riley","Tu 5:30pm - 8:00pm","Gilmer Hall 341","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,25,26,0
+11917,BIOL,2200,114,Laboratory,"0","Louis Bubrig, Jessamyn Manson","Tu 5:30pm - 8:00pm","Gilmer Hall 351","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,23,26,0
+11892,BIOL,2200,115,Laboratory,"0","Jessamyn Manson, Erik Miao","Tu 5:30pm - 8:00pm","Gilmer Hall 353","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,25,26,0
+11918,BIOL,2200,116,Laboratory,"0","Jessamyn Manson, Angela Yu","We 10:00am - 12:30pm","Gilmer Hall 341","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,20,26,0
+11893,BIOL,2200,117,Laboratory,"0","Brianna Hang, Jessamyn Manson","We 10:00am - 12:30pm","Gilmer Hall 351","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,24,26,0
+12204,BIOL,2200,118,Laboratory,"0","Sarah Khan, Jessamyn Manson","We 10:00am - 12:30pm","Gilmer Hall 353","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,13,26,0
+11894,BIOL,2200,119,Laboratory,"0","Evelyn Gouldin, Jessamyn Manson","We 2:00pm - 4:30pm","Gilmer Hall 341","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,1
+11919,BIOL,2200,120,Laboratory,"0","Jessamyn Manson, Alyson Miskowic","We 2:00pm - 4:30pm","Gilmer Hall 351","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11920,BIOL,2200,121,Laboratory,"0","Lauren Bradshaw, Jessamyn Manson","We 2:00pm - 4:30pm","Gilmer Hall 353","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11895,BIOL,2200,122,Laboratory,"0","Dylan Highland, Jessamyn Manson","We 5:30pm - 8:00pm","Gilmer Hall 341","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,24,26,0
+11921,BIOL,2200,123,Laboratory,"0","Gopika Lekshmi, Jessamyn Manson","We 5:30pm - 8:00pm","Gilmer Hall 351","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,18,26,0
+11896,BIOL,2200,124,Laboratory,"0","Jessamyn Manson, Arpita Subhadarshini","We 5:30pm - 8:00pm","Gilmer Hall 353","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,20,26,0
+11897,BIOL,2200,125,Laboratory,"0","Mehrael Atkins, Jessamyn Manson","Th 10:00am - 12:30pm","Gilmer Hall 341","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,25,26,0
+11922,BIOL,2200,126,Laboratory,"0","Jessamyn Manson, Akriti Saha","Th 10:00am - 12:30pm","Gilmer Hall 351","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11923,BIOL,2200,127,Laboratory,"0","Megan Alderman, Jessamyn Manson","Th 10:00am - 12:30pm","Gilmer Hall 353","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,24,26,0
+11924,BIOL,2200,128,Laboratory,"0","Jessamyn Manson, Elizabeth Moore","Th 2:00pm - 4:30pm","Gilmer Hall 341","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11933,BIOL,2200,129,Laboratory,"0","Ava Franklin, Jessamyn Manson","Th 2:00pm - 4:30pm","Gilmer Hall 351","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11934,BIOL,2200,130,Laboratory,"0","Jessamyn Manson, Prajna Surapaneni","Th 2:00pm - 4:30pm","Gilmer Hall 353","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Wait List,26,26,0
+11935,BIOL,2200,131,Laboratory,"0","Dylan Highland, Jessamyn Manson","Th 5:30pm - 8:00pm","Gilmer Hall 341","Introduction to Biology w/Laboratory: Organismal & Evolutionary Biology","",Open,25,26,0
+10593,BIOL,3000,100,Lecture,"3","Keith Kozminski","MoWeFr 9:00am - 9:50am","Chemistry Bldg 402","Cell Biology","",Open,246,338,0
+20211,BIOL,3000,101,Discussion,"0","Keith Kozminski","We 7:10pm - 9:10pm","Chemistry Bldg 402","Cell Biology","",Open,246,338,0
+11810,BIOL,3010,100,Lecture,"3","Alan Bergland, Sarah Siegrist","MoWeFr 11:00am - 11:50am","Gilmer Hall 301","Genetics and Molecular Biology","",Wait List,328,330,55
+20212,BIOL,3010,101,Discussion,"0","Alan Bergland, Sarah Siegrist","Mo 7:15pm - 9:15pm","Gilmer Hall 301","Genetics and Molecular Biology","",Wait List,328,330,55
+10594,BIOL,3020,100,Lecture,"3","Edmund Brodie, Robert Cox","MoWeFr 10:00am - 10:50am","Chemistry Bldg 402","Evolution and Ecology","",Open,327,476,0
+20628,BIOL,3020,101,Discussion,"0","Edmund Brodie","We 5:00pm - 7:00pm","Chemistry Bldg 402","Evolution and Ecology","",Open,327,476,0
+20003,BIOL,3040,100,Lecture,"3","Sarah Kucenas","MoWeFr 9:00am - 9:50am","Chemistry Bldg 217","Developmental and Regenerative Biology","",Open,95,99,0
+20004,BIOL,3040,101,Discussion,"0","Sarah Kucenas","We 5:00pm - 7:30pm","Physics Bldg 242","Developmental and Regenerative Biology","",Open,95,99,0
+12913,BIOL,3090,001,Lecture,"3","Jennifer Guler","MoWeFr 11:00am - 11:50am","Chemistry Bldg 217","Our World of Infectious Disease","",Wait List,96,96,54
+12508,BIOL,3180,001,Lecture,"3","Michael Timko","TuTh 9:30am - 10:45am","John W. Warner Hall 104","Introduction to Plants and Society","",Open,31,54,0
+10595,BIOL,3240,001,Lecture,"3","David Kittlesen","MoWeFr 1:00pm - 1:50pm","Ridley Hall G008","Introduction to Immunology","",Wait List,170,170,6
+11690,BIOL,3250,001,Lecture,"3","Masashi Kawasaki","MoWeFr 10:00am - 10:50am","Gilmer Hall 390","Introduction to Animal Behavior","",Wait List,149,150,36
+13609,BIOL,3260,001,Lecture,"3","Jay Hirsh","TuTh 12:30pm - 1:45pm","Gilmer Hall 257","Editing Genes and Genomes","",Open,31,40,0
+11936,BIOL,3420,100,Lecture,"4","Ann Massey","TuTh 3:30pm - 4:45pm","Gilmer Hall 301","Human Anatomy and Physiology II","",Wait List,231,220,16
+11939,BIOL,3420,101,Laboratory,"0","Maryam Chowdary, Ann Massey","Mo 2:00pm - 5:00pm","Gilmer Hall 350","Human Anatomy and Physiology II","",Wait List,20,20,2
+12013,BIOL,3420,102,Laboratory,"0","Ariana Craft, Ann Massey","Mo 2:00pm - 5:00pm","Gilmer Hall 356","Human Anatomy and Physiology II","",Wait List,21,20,3
+11940,BIOL,3420,103,Laboratory,"0","Sagar Kasar, Ann Massey","Mo 6:00pm - 9:00pm","Gilmer Hall 350","Human Anatomy and Physiology II","",Wait List,20,20,1
+11941,BIOL,3420,104,Laboratory,"0","Ann Massey, Kyle Montaperto","Mo 6:00pm - 9:00pm","Gilmer Hall 356","Human Anatomy and Physiology II","",Wait List,21,20,1
+12016,BIOL,3420,105,Laboratory,"0","Ann Massey, Taylor Nystrom","Tu 9:00am - 12:00pm","Gilmer Hall 350","Human Anatomy and Physiology II","",Wait List,21,20,0
+11942,BIOL,3420,106,Laboratory,"0","Ann Massey, Kadirra Thurston","Tu 6:00pm - 9:00pm","Gilmer Hall 350","Human Anatomy and Physiology II","",Wait List,21,20,1
+11943,BIOL,3420,107,Laboratory,"0","Ann Massey, Avery Worsham","Tu 6:00pm - 9:00pm","Gilmer Hall 356","Human Anatomy and Physiology II","",Wait List,22,20,1
+12015,BIOL,3420,108,Laboratory,"0","Maryam Chowdary, Ann Massey","We 2:00pm - 5:00pm","Gilmer Hall 350","Human Anatomy and Physiology II","",Wait List,22,20,2
+11944,BIOL,3420,109,Laboratory,"0","Ann Massey, Taylor Nystrom","We 2:00pm - 5:00pm","Gilmer Hall 356","Human Anatomy and Physiology II","",Wait List,20,20,2
+12014,BIOL,3420,110,Laboratory,"0","Carly Diamond, Ann Massey","We 6:00pm - 9:00pm","Gilmer Hall 350","Human Anatomy and Physiology II","",Wait List,21,20,3
+11945,BIOL,3420,111,Laboratory,"0","Ariana Craft, Ann Massey","Th 9:00am - 12:00pm","Gilmer Hall 350","Human Anatomy and Physiology II","",Wait List,22,20,3
+20604,BIOL,3430,001,Lecture,"3","Ann Massey","TuTh 9:30am - 10:45am","Shannon House 107","Physiological Mechanisms in Health and Disease","",Wait List,35,35,10
+12084,BIOL,4040,100,Lecture,"3","George Bloom","Th 2:00pm - 2:50pm","Chemistry Bldg 206","Laboratory in Cell Biology","",Wait List,48,48,0
+12085,BIOL,4040,101,Laboratory,"0","George Bloom","Th 3:00pm - 6:00pm","Gilmer Hall 335","Laboratory in Cell Biology","",Wait List,24,24,0
+12086,BIOL,4040,102,Laboratory,"0","George Bloom","Th 3:00pm - 6:00pm","Gilmer Hall 340","Laboratory in Cell Biology","",Wait List,24,24,0
+13358,BIOL,4070,001,Laboratory,"3","Raymond Keller","We 2:00pm - 3:00pm","Gilmer Hall 332","Developmental Biology Laboratory","",Closed,22,20,0
+11811,BIOL,4260,001,Lecture,"3","Mike Wormington","TuTh 11:00am - 12:15pm","Chemistry Bldg 206","Cellular Mechanisms","",Closed,52,40,0
+13251,BIOL,4310,001,Lecture,"3","Ignacio Provencio","TuTh 9:30am - 10:45am","Gilmer Hall 257","Sensory Neurobiology","",Open,58,60,6
+12920,BIOL,4330,001,Lecture,"3","Barry Condron","TuTh 9:30am - 10:45am","Dell 2 100","Wiring the Brain","",Wait List,30,30,26
+11821,BIOL,4770,001,Lecture,"3","Keith Kozminski","MoTh 7:00pm - 8:30pm","Physical & Life Sci Bldg Rm403","Synthetic Biology","",Open,15,18,0
+12012,CHEM,1500,001,Lecture,"3","Kamil Stelmach","TuTh 9:30am - 10:45am","Physics Bldg 220","Chemistry for Health Sciences","General, Organic & Biochem for Health Professsions",Open,42,45,0
+10614,CHEM,4420,001,Lecture,"3","Robert Nakamoto","TuTh 9:30am - 10:45am","Physics Bldg 338","Biological Chemistry II","",Open,97,110,0
+12858,CHEM,4440,100,Lecture,"3","Jelena Samonina","TuTh 11:00am - 12:15pm","Physics Bldg 338","Biochemistry for Pre-Health","",Open,50,130,0
+12859,CHEM,4440,101,Discussion,"0","Jelena Samonina","Mo 4:00pm - 6:00pm","Physics Bldg 238","Biochemistry for Pre-Health","",Open,50,130,0
+10660,EVSC,1010,001,Lecture,"3","Scott Doney","TuTh 12:30pm - 1:45pm","Wilson Hall 402","Introduction to Environmental Sciences","",Closed,324,325,16
+10661,EVSC,2050,001,Lecture,"3","Stephen Macko","TuTh 12:30pm - 1:45pm","Clark Hall 108","Introduction to Oceanography","",Open,67,113,0
+10667,EVSC,3200,001,Lecture,"3","Meghan Blumstein, Michael Cornish","TuTh 11:00am - 12:15pm","Clark Hall 108","Fundamentals of Ecology","",Wait List,119,120,6
+10680,EVSC,4050,001,Lecture,"3","Stephen Macko","TuTh 12:30pm - 1:45pm","Clark Hall 108","Topics in Oceanography","",Open,36,50,0
+18972,EVSC,4140,001,Lecture,"3","Karen Mcglathery","TuTh 11:00am - 12:15pm","Wilson Hall 142","Global Coastal Change","",Open,24,25,0
+13597,EVSC,4290,001,Lecture,"3","Michael Pace","MoWeFr 10:00am - 10:50am","New Cabell Hall 485","Limnology: Inland Water Ecosystems","",Closed,30,30,0
+11816,EVSC,4991,001,Lecture,"2","Scott Doney","Tu 2:00pm - 4:00pm","New Cabell Hall 032","The Theory and Practice of Biodiversity Conservation","",Open,24,35,0
+19812,GETR,3780,001,SEM,"3","Lorna Martens","TuTh 2:00pm - 3:15pm","Pavilion VIII 102","Memory Speaks","",Open,17,20,0
+19502,LING,2430,100,Lecture,"3","Armik Mirzayan","TuTh 5:00pm - 5:50pm","John W. Warner Hall 104","Languages of the World","",Wait List,60,60,2
+19503,LING,2430,101,Discussion,"0","Zhiyu Zhou","Fr 9:00am - 9:50am","New Cabell Hall 411","Languages of the World","",Wait List,20,20,0
+19504,LING,2430,102,Discussion,"0","Zhiyu Zhou","Fr 10:00am - 10:50am","New Cabell Hall 415","Languages of the World","",Wait List,20,20,0
+19505,LING,2430,103,Discussion,"0","Zhiyu Zhou","Fr 11:00am - 11:50am","New Cabell Hall 287","Languages of the World","",Wait List,20,20,2
+20829,NESC,3450,100,Lecture,"0","Gwendolyn Lewis","Mo 1:00pm - 2:50pm","Chemistry Bldg 217","The Study of Neuroscience from Molecules to Minds","",Open,66,72,4
+20830,NESC,3450,101,Laboratory,"4","Gwendolyn Lewis","We 10:00am - 12:30pm","Gilmer Hall 359","The Study of Neuroscience from Molecules to Minds","",Wait List,18,18,3
+20831,NESC,3450,102,Laboratory,"4","Gwendolyn Lewis","We 2:00pm - 4:30pm","Gilmer Hall 359","The Study of Neuroscience from Molecules to Minds","",Wait List,18,18,0
+20832,NESC,3450,103,Laboratory,"4","Gwendolyn Lewis","Th 11:00am - 1:30pm","Gilmer Hall 359","The Study of Neuroscience from Molecules to Minds","",Wait List,18,18,1
+20833,NESC,3450,104,Laboratory,"4","Gwendolyn Lewis","Th 3:30pm - 6:00pm","Gilmer Hall 359","The Study of Neuroscience from Molecules to Minds","",Open,12,18,0
+12521,PHS,3104,001,Lecture,"3","Josh Colston","TuTh 2:00pm - 3:15pm","Multistory (Old) Hospital C1","Introduction to Epidemiology: Methodological and Ethical Considerations","",Closed,24,20,0
+10850,PHYS,3040,001,Lecture,"3","Jongsoo Yoon","TuTh 12:30pm - 1:45pm","Physics Bldg 217","Physics of the Human Body","",Open,19,25,0
+12320,PSYC,2150,100,Lecture,"3","Mariana Golino","TBA","TBA","Introduction to Cognition","",Wait List,197,198,48
+13551,PSYC,2150,101,Laboratory,"0","Mariana Golino","Fr 2:00pm - 3:50pm","Chemistry Bldg 217","Introduction to Cognition","",Wait List,99,99,42
+13552,PSYC,2150,102,Laboratory,"0","Mariana Golino","Fr 4:00pm - 5:50pm","Chemistry Bldg 217","Introduction to Cognition","",Wait List,98,99,6
+10877,PSYC,2600,001,Lecture,"3","Christopher Mazurek","TuTh 9:30am - 10:45am","Wilson Hall 402","Introduction to Social Psychology","",Wait List,324,325,23
+11880,PSYC,2600,002,Lecture,"3","Adrienne Wood","MoWe 2:00pm - 3:15pm","Chemistry Bldg 402","Introduction to Social Psychology","",Wait List,338,338,71
+10876,PSYC,2700,001,Lecture,"3","Zoe Robertson","MoWe 2:00pm - 3:15pm","Gilmer Hall 301","Introduction to Child Psychology","",Wait List,337,338,70
+12943,PSYC,3200,001,Lecture,"3","Jianhua Cang","TuTh 9:30am - 10:45am","Gilmer Hall 390","Fundamentals of Neuroscience","",Wait List,150,150,67
+20372,PSYC,3415,001,Lecture,"3","Zoe Robertson","TuTh 11:00am - 12:15pm","Shannon House 107","Research Methods in Developmental Psychology","",Wait List,35,35,8
+20552,PSYC,3445,001,SEM,"3","Aaron Reuben","TuTh 2:00pm - 3:15pm","Gilmer Hall 390","Introduction to Clinical Psychology","",Wait List,150,150,33
+14321,PSYC,3490,001,Lecture,"3","Tobias Grossmann","TuTh 11:00am - 12:15pm","Gilmer Hall 390","Infant Development","",Wait List,150,150,72
+20375,PSYC,4100,001,SEM,"3","Cedric Williams","TuTh 9:30am - 10:45am","Dell 2 101","Neuroscience of Learning, Emotions and Motivation of Functional Behavior","",Wait List,30,30,40
+14513,PSYC,4435,001,SEM,"3","Hudson Golino","We 9:00am - 11:30am","Gilmer Hall Room 250","The Psychology of Misinformation","",Wait List,25,25,12

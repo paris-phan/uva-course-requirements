@@ -1,0 +1,94 @@
+ClassNumber,Mnemonic,Number,Section,Type,Units,Instructor,Days,Room,Title,Topic,Status,Enrollment,EnrollmentLimit,Waitlist
+19102,AAS,3500,001,SEM,"3","Kache Claytor","MoWe 3:30pm - 4:45pm","New Cabell Hall 064","Intermediate Seminar in African-American & African Studies","Race, Gender & Environmental Justice-Latin America",Open,15,16,0
+13969,AAS,3500,005,SEM,"3","Kimberly Fields","Tu 3:30pm - 6:00pm","John W. Warner Hall 113","Intermediate Seminar in African-American & African Studies","Race, Class, Politics & the Environoment",Wait List,30,30,1
+13970,AAS,3500,006,SEM,"3","Kimberly Fields","We 6:00pm - 8:30pm","New Cabell Hall 411","Intermediate Seminar in African-American & African Studies","Environmental Justice Across the Globe",Wait List,20,20,0
+13972,AAS,3500,008,SEM,"3","Liana Richardson","We 2:00pm - 4:30pm","New Cabell Hall 207","Intermediate Seminar in African-American & African Studies","Race & Medicine in Post-19th Century America",Wait List,15,16,2
+11475,ANTH,2280,100,Lecture,"3","Jarrett Zigon","We 3:30pm - 5:10pm","Nau Hall 101","Medical Anthropology","",Wait List,237,240,75
+12613,ANTH,2280,101,Discussion,"0","Brianna Doe","Th 7:00pm - 7:50pm","Brooks Hall 103","Medical Anthropology","",Wait List,20,20,6
+12615,ANTH,2280,103,Discussion,"0","Rachel Apone","We 11:00am - 11:50am","Pavilion VIII 102","Medical Anthropology","",Wait List,20,20,11
+12616,ANTH,2280,104,Discussion,"0","Brianna Doe","Th 6:00pm - 6:50pm","New Cabell Hall 207","Medical Anthropology","",Wait List,20,20,3
+12618,ANTH,2280,106,Discussion,"0","Rachel Apone","Fr 9:00am - 9:50am","New Cabell Hall 191","Medical Anthropology","",Wait List,20,20,8
+14018,ANTH,2280,107,Discussion,"0","Eunchae Kwon","Fr 11:00am - 11:50am","New Cabell Hall 111","Medical Anthropology","",Wait List,20,20,4
+14019,ANTH,2280,108,Discussion,"0","Rachel Apone","Fr 10:00am - 10:50am","The Rotunda Room 152","Medical Anthropology","",Wait List,20,20,5
+14020,ANTH,2280,109,Discussion,"0","Brianna Doe","Fr 12:00pm - 12:50pm","New Cabell Hall 115","Medical Anthropology","",Wait List,19,20,4
+19623,ANTH,2280,110,Discussion,"0","John Rovin","Mo 11:00am - 11:50am","Pavilion VIII 102","Medical Anthropology","",Wait List,19,20,4
+19747,ANTH,2280,111,Discussion,"0","Eunchae Kwon","Mo 11:00am - 11:50am","Brooks Hall 103","Medical Anthropology","",Wait List,20,20,6
+19748,ANTH,2280,112,Discussion,"0","Eunchae Kwon","Mo 12:00pm - 12:50pm","Brooks Hall 103","Medical Anthropology","",Wait List,20,20,10
+21085,ANTH,2280,113,Discussion,"0","John Rovin","Mo 9:00am - 9:50am","Brooks Hall 103","Medical Anthropology","",Wait List,20,20,3
+21086,ANTH,2280,114,Discussion,"0","John Rovin","Mo 10:00am - 10:50am","Brooks Hall 103","Medical Anthropology","",Wait List,19,20,7
+13436,ANTH,3020,001,Lecture,"3","Roberto Rosado-Ramirez","MoWe 3:30pm - 4:45pm","Gibson Hall 211","Using Anthropology","",Open,25,35,0
+19636,ANTH,3390,001,Lecture,"3","Gertrude Fraser","TuTh 3:30pm - 4:20pm","Ridley Hall G004","Pregnancy, Birthing and the Post-Partum","",Wait List,59,60,29
+10460,ARH,3604,001,Lecture,"3","Andrew Johnston","Fr 1:00pm - 3:30pm","Campbell Hall 220C","Field Methods I Building Archaeology","",Closed,5,10,0
+18787,ARTH,3151,001,Lecture,"3","Eric Ramirez-Weaver","MoWeFr 9:00am - 9:50am","Campbell Hall 160","Art and Science in the Middle Ages","",Open,34,50,0
+13456,ASTR,1250,001,Lecture,"3","Yifan Zhou","MoWeFr 9:00am - 9:50am","Clark Hall 107","Alien Worlds","",Open,101,120,5
+13898,ASTR,1280,001,Lecture,"3","Paul Torrey","MoWeFr 10:00am - 10:50am","Clark Hall 107","The Origins of Almost Everything","",Wait List,140,140,16
+12659,ASTR,3450,001,Lecture,"3","Edward Murphy","MoWe 3:30pm - 4:45pm","Ridley Hall G008","Mission to Mars","",Open,142,170,0
+11821,BIOL,4770,001,Lecture,"3","Keith Kozminski","MoTh 7:00pm - 8:30pm","Physical & Life Sci Bldg Rm403","Synthetic Biology","",Open,15,18,0
+13913,ECON,4150,100,Lecture,"3","Emma Harrington","MoWe 5:00pm - 6:15pm","Chemistry Bldg 217","Economics of Labor","",Wait List,61,60,21
+13914,ECON,4150,101,Discussion,"0","Pallavi Wats","Th 5:00pm - 5:50pm","Wilson Hall 238","Economics of Labor","",Wait List,31,30,10
+13915,ECON,4150,102,Discussion,"0","Pallavi Wats","Th 6:00pm - 6:50pm","Wilson Hall 238","Economics of Labor","",Wait List,30,30,11
+13790,ECON,4430,099,Lecture,"3","Sheetal Sekhri","TuTh 2:00pm - 3:15pm","Clark Hall 108","Environmental Economics","",Wait List,70,70,16
+12886,ECON,4430,100,Lecture,"3","Sheetal Sekhri","TuTh 11:00am - 12:15pm","Ridley Hall G004","Environmental Economics","",Wait List,69,70,20
+13791,ECON,4430,101,Discussion,"0","To Be Announced","Fr 9:00am - 9:50am","Wilson Hall 238","Environmental Economics","",Open,24,25,1
+12950,ECON,4430,102,Discussion,"0","To Be Announced","Fr 10:00am - 10:50am","Wilson Hall 238","Environmental Economics","",Wait List,26,25,8
+12951,ECON,4430,103,Discussion,"0","Chunru Zheng","Fr 1:00pm - 1:50pm","Nau Hall 141","Environmental Economics","",Wait List,24,25,6
+19801,ECON,4430,105,Discussion,"0","Chunru Zheng","Fr 11:00am - 11:50am","Nau Hall 141","Environmental Economics","",Wait List,25,25,9
+21431,ECON,4430,106,Discussion,"0","To Be Announced","Fr 9:00am - 9:50am","New Cabell Hall 058","Environmental Economics","",Open,17,25,6
+21432,ECON,4430,107,Discussion,"0","To Be Announced","Fr 1:00pm - 1:50pm","New Cabell Hall 058","Environmental Economics","",Wait List,25,25,5
+19702,ECON,4720,090,Lecture,"3","Lidia Kosenkova","MoWe 2:00pm - 3:15pm","Clinical Department Wing 2677","Econometric Methods","",Open,13,25,0
+19703,ECON,4720,101,Discussion,"0","Makoto Tanaka","We 6:00pm - 6:50pm","New Cabell Hall 132","Econometric Methods","",Wait List,9,9,0
+19704,ECON,4720,102,Discussion,"0","Makoto Tanaka","We 7:00pm - 7:50pm","New Cabell Hall 132","Econometric Methods","",Open,4,13,0
+12959,ETP,2030,001,Lecture,"3","Stephen Cushman, Paul Freedman, Charity Nyelele","MoWe 2:00pm - 3:15pm","Chemistry Bldg 206","Politics, Science, & Values: Intro to Environmental Thought and Practice","",Closed,60,60,0
+13029,ETP,4010,001,Lecture,"3","Mary Kuhn","Th 2:00pm - 4:30pm","Dell 2 100","Environmental Decisions","",Closed,22,22,0
+20019,ETP,4010,002,Lecture,"3","Mary Kuhn","We 2:00pm - 4:30pm","Physics Bldg 217","Environmental Decisions","",Open,19,22,0
+11537,EVSC,3020,100,Lecture,"4","John Porter","TuTh 2:00pm - 3:15pm","John W. Warner Hall 104","GIS Methods","",Open,59,60,0
+11538,EVSC,3020,101,Laboratory,"0","John Porter","Mo 5:00pm - 9:00pm","Mechanical Engr Bldg 213","GIS Methods","",Open,29,30,0
+11539,EVSC,3020,102,Laboratory,"0","John Porter","We 5:00pm - 9:00pm","Mechanical Engr Bldg 214","GIS Methods","",Closed,30,30,0
+18972,EVSC,4140,001,Lecture,"3","Karen Mcglathery","TuTh 11:00am - 12:15pm","Wilson Hall 142","Global Coastal Change","",Open,24,25,0
+19180,HIST,2152,100,Lecture,"3","Christopher Gratien, Ayan Sharma","MoWe 4:00pm - 5:15pm","Wilson Hall 325","Climate History","",Wait List,80,80,40
+13322,MDST,4510,001,SEM,"3","Anna Clay","MoWe 2:00pm - 3:15pm","New Cabell Hall 395","Capstone Topics","Intensive Journalism",Wait List,22,20,1
+14490,PHIL,1330,100,Lecture,"3","Ross Cameron","TuTh 8:00am - 8:50am","Wilson Hall 301","Virtual Worlds and Philosophy","",Wait List,119,120,8
+14491,PHIL,1330,101,Discussion,"0","Yucheng Li","Fr 8:00am - 8:50am","New Cabell Hall 211","Virtual Worlds and Philosophy","",Wait List,20,20,2
+14492,PHIL,1330,102,Discussion,"0","Yucheng Li","Fr 9:00am - 9:50am","Pavilion VIII 102","Virtual Worlds and Philosophy","",Wait List,20,20,1
+14493,PHIL,1330,103,Discussion,"0","Yucheng Li","Fr 12:00pm - 12:50pm","Kerchof Hall 317","Virtual Worlds and Philosophy","",Wait List,20,20,1
+19482,PHIL,1330,104,Discussion,"0","Dakota Jones","Fr 11:00am - 11:50am","Pavilion VIII 102","Virtual Worlds and Philosophy","",Wait List,20,20,3
+19483,PHIL,1330,105,Discussion,"0","Dakota Jones","Fr 12:00pm - 12:50pm","Pavilion VIII 102","Virtual Worlds and Philosophy","",Wait List,20,20,0
+19484,PHIL,1330,106,Discussion,"0","Dakota Jones","Fr 2:00pm - 2:50pm","New Cabell Hall 111","Virtual Worlds and Philosophy","",Wait List,19,20,1
+12521,PHS,3104,001,Lecture,"3","Josh Colston","TuTh 2:00pm - 3:15pm","Multistory (Old) Hospital C1","Introduction to Epidemiology: Methodological and Ethical Considerations","",Closed,24,20,0
+12335,PHS,4050,001,Lecture,"3","Kathryn Quissell","TuTh 12:30pm - 1:45pm","Monroe Hall 134","Public Health Policy","",Closed,54,50,0
+12671,PHYS,3120,001,Lecture,"3","Nilanga Liyanage","MoWeFr 9:00am - 9:50am","Physics Bldg 217","Applied Physics: Energy","",Open,10,18,0
+12861,PLAP,2030,001,Lecture,"3","Stephen Cushman, Paul Freedman, Charity Nyelele","MoWe 2:00pm - 3:15pm","Chemistry Bldg 206","Politics, Science and Values: An Introduction to Environmental Policy","",Closed,20,20,0
+20365,PSYC,2410,001,Lecture,"3","Elise Clerkin","TuTh 2:00pm - 3:15pm","Chemistry Bldg 402","Abnormal Psychology","",Wait List,348,350,118
+20373,PSYC,3420,001,Lecture,"3","Eric Turkheimer","TuTh 3:30pm - 4:45pm","Physics Bldg 338","The Nature Nurture Debate","",Wait List,99,100,27
+14323,PSYC,4603,001,Lecture,"3","Charlotte Patterson","We 2:00pm - 4:30pm","Gilmer Hall Room 250","Psychology of Sexual Orientation","",Wait List,25,25,3
+12235,RELG,2210,100,Lecture,"3","Willis Jenkins","TuTh 11:00am - 11:50am","Gilmer Hall 301","Religion, Ethics, & Global Environment","",Wait List,300,300,13
+14575,RELG,2210,101,Discussion,"0","Sana Azmat, Willis Jenkins","TBA","TBA","Religion, Ethics, & Global Environment","",Wait List,10,10,4
+14576,RELG,2210,102,Discussion,"0","ALEXANDRA DALEY, Willis Jenkins","TBA","TBA","Religion, Ethics, & Global Environment","",Wait List,10,10,2
+14577,RELG,2210,103,Discussion,"0","Willis Jenkins, Niraj Raju","TBA","TBA","Religion, Ethics, & Global Environment","",Wait List,10,10,5
+14578,RELG,2210,104,Discussion,"0","Willis Jenkins, Haseena Sahib","TBA","TBA","Religion, Ethics, & Global Environment","",Wait List,10,10,2
+19277,RELG,2210,105,Discussion,"0","Willis Jenkins, Victoria Slabinski","TBA","TBA","Religion, Ethics, & Global Environment","",Wait List,10,10,0
+21591,RELG,2210,106,Discussion,"0","Sana Azmat, Willis Jenkins","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21592,RELG,2210,107,Discussion,"0","Sana Azmat, Willis Jenkins","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21593,RELG,2210,108,Discussion,"0","Sana Azmat, Willis Jenkins","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21594,RELG,2210,109,Discussion,"0","Sana Azmat, Willis Jenkins","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21595,RELG,2210,110,Discussion,"0","Sana Azmat, Willis Jenkins","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21596,RELG,2210,111,Discussion,"0","ALEXANDRA DALEY, Willis Jenkins","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21597,RELG,2210,112,Discussion,"0","ALEXANDRA DALEY, Willis Jenkins","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21598,RELG,2210,113,Discussion,"0","ALEXANDRA DALEY, Willis Jenkins","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21599,RELG,2210,114,Discussion,"0","ALEXANDRA DALEY, Willis Jenkins","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21600,RELG,2210,115,Discussion,"0","ALEXANDRA DALEY, Willis Jenkins","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21601,RELG,2210,116,Discussion,"0","Willis Jenkins, Niraj Raju","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21602,RELG,2210,117,Discussion,"0","Willis Jenkins, Niraj Raju","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21603,RELG,2210,118,Discussion,"0","Willis Jenkins, Niraj Raju","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21604,RELG,2210,119,Discussion,"0","Willis Jenkins, Niraj Raju","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21605,RELG,2210,120,Discussion,"0","Willis Jenkins, Niraj Raju","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21606,RELG,2210,121,Discussion,"0","Willis Jenkins, Haseena Sahib","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21607,RELG,2210,122,Discussion,"0","Willis Jenkins, Haseena Sahib","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21608,RELG,2210,123,Discussion,"0","Willis Jenkins, Haseena Sahib","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21609,RELG,2210,124,Discussion,"0","Willis Jenkins, Haseena Sahib","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21610,RELG,2210,125,Discussion,"0","Willis Jenkins, Haseena Sahib","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21611,RELG,2210,126,Discussion,"0","Willis Jenkins, Victoria Slabinski","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21612,RELG,2210,127,Discussion,"0","Willis Jenkins, Victoria Slabinski","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21613,RELG,2210,128,Discussion,"0","Willis Jenkins, Victoria Slabinski","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21614,RELG,2210,129,Discussion,"0","Willis Jenkins, Victoria Slabinski","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0
+21615,RELG,2210,130,Discussion,"0","Willis Jenkins, Victoria Slabinski","TBA","TBA","Religion, Ethics, & Global Environment","",Closed,10,10,0

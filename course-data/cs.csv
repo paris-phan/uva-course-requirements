@@ -1,0 +1,491 @@
+ClassNumber,Mnemonic,Number,Section,Type,Units,Instructor,Days,Room,Title,Topic,Status,Enrollment,EnrollmentLimit,Waitlist
+14972,CS,1110,001,Lecture,"3","Arohi Khargonkar","MoWeFr 10:00am - 10:50am","Gilmer Hall 301","Introduction to Programming","",Open,154,250,0
+14980,CS,1110,002,Lecture,"3","Arohi Khargonkar","MoWeFr 12:00pm - 12:50pm","Gilmer Hall 301","Introduction to Programming","",Open,161,250,0
+14973,CS,1110,100,Laboratory,"0","Arohi Khargonkar","Th 9:30am - 10:45am","Olsson Hall 018","Introduction to Programming","",Open,62,85,0
+14974,CS,1110,101,Laboratory,"0","Arohi Khargonkar","Th 11:00am - 12:15pm","Olsson Hall 018","Introduction to Programming","",Open,76,85,0
+14975,CS,1110,102,Laboratory,"0","Arohi Khargonkar","Th 12:30pm - 1:45pm","Olsson Hall 018","Introduction to Programming","",Open,73,85,0
+14976,CS,1110,103,Laboratory,"0","Arohi Khargonkar","Th 2:00pm - 3:15pm","Olsson Hall 018","Introduction to Programming","",Open,61,85,0
+14977,CS,1110,104,Laboratory,"0","Arohi Khargonkar","Th 3:30pm - 4:45pm","Olsson Hall 018","Introduction to Programming","",Open,32,85,0
+14978,CS,1110,105,Laboratory,"0","Arohi Khargonkar","Th 5:00pm - 6:15pm","Olsson Hall 018","Introduction to Programming","",Open,11,85,0
+16240,CS,1112,001,Lecture,"3","Nada Basit","MoWeFr 12:30pm - 1:45pm","Olsson Hall 018","Introduction to Programming","",Wait List,86,85,37
+16241,CS,1112,002,Lecture,"3","Nada Basit","MoWeFr 2:00pm - 3:15pm","Olsson Hall 018","Introduction to Programming","",Wait List,86,85,25
+21033,CS,1113,001,Lecture,"3","Cristina Mantilla Suarez","TuTh 11:00am - 12:15pm","Physics Bldg 242","Introduction to Programming","",Open,49,55,0
+15892,CS,2100,001,Lecture,"4","Briana Morrison","MoWeFr 12:00pm - 12:50pm","Chemistry Bldg 402","Data Structures and Algorithms 1","",Open,270,300,1
+15893,CS,2100,002,Lecture,"4","Briana Morrison","MoWeFr 9:00am - 9:50am","Rice Hall 130","Data Structures and Algorithms 1","",Open,101,150,0
+15894,CS,2100,101,Laboratory,"0","Briana Morrison","Mo 3:00pm - 4:45pm","Olsson Hall 120","Data Structures and Algorithms 1","",Wait List,125,125,1
+15895,CS,2100,102,Laboratory,"0","Briana Morrison","Mo 5:00pm - 6:45pm","Rice Hall 130","Data Structures and Algorithms 1","",Open,80,150,0
+15896,CS,2100,103,Laboratory,"0","Briana Morrison","Mo 7:00pm - 8:45pm","Rice Hall 130","Data Structures and Algorithms 1","",Open,45,150,0
+15970,CS,2100,104,Laboratory,"0","Briana Morrison","Mo 3:30pm - 5:15pm","Mechanical Engr Bldg 205","Data Structures and Algorithms 1","",Open,121,125,0
+15954,CS,2120,001,Lecture,"3","David Evans, Aidan San","MoWeFr 2:00pm - 2:50pm","Rice Hall 130","Discrete Mathematics and Theory 1","",Wait List,137,135,7
+20643,CS,2120,003,Lecture,"3","David Evans","MoWeFr 10:00am - 10:50am","Olsson Hall 120","Discrete Mathematics and Theory 1","",Open,133,135,3
+15897,CS,2130,001,Lecture,"4","Daniel Graham","MoWeFr 11:00am - 11:50am","Wilson Hall 402","Computer Systems and Organization 1","",Open,153,225,0
+19554,CS,2130,002,Lecture,"4","Todd Delong","MoWeFr 1:00pm - 1:50pm","John W. Warner Hall 209","Computer Systems and Organization 1","",Open,184,225,0
+15898,CS,2130,101,Laboratory,"0","Daniel Graham","Tu 9:30am - 10:45am","Olsson Hall 018","Computer Systems and Organization 1","",Open,31,85,0
+15899,CS,2130,102,Laboratory,"0","Daniel Graham","Tu 11:00am - 12:15pm","Olsson Hall 018","Computer Systems and Organization 1","",Open,74,85,0
+16058,CS,2130,103,Laboratory,"0","Daniel Graham","Tu 12:30pm - 1:45pm","Olsson Hall 018","Computer Systems and Organization 1","",Open,82,85,0
+16059,CS,2130,104,Laboratory,"0","Daniel Graham","Tu 2:00pm - 3:15pm","Olsson Hall 018","Computer Systems and Organization 1","",Open,39,85,0
+16060,CS,2130,105,Laboratory,"0","Daniel Graham","Tu 3:30pm - 4:45pm","Olsson Hall 018","Computer Systems and Organization 1","",Wait List,85,85,0
+16061,CS,2130,106,Laboratory,"0","Daniel Graham","Tu 5:00pm - 6:15pm","Olsson Hall 018","Computer Systems and Organization 1","",Open,26,85,0
+21006,CS,2501,001,Lecture,"1","Briana Morrison","We 5:00pm - 5:50pm","Olsson Hall 009","Special Topics in Computer Science","Preparing for Undergraduate Research",Open,79,80,0
+15650,CS,2910,001,PRA,"1","Nada Basit, Angela Orebaugh","TBA","TBA","CS Education Practicum","",Open,0,120,0
+21272,CS,2993,001,IND,"1 - 3","Mark Sherriff","TBA","TBA","Independent Study","",Open,1,30,0
+16062,CS,3100,001,Lecture,"3","Aaron Bloomfield","TuTh 9:30am - 10:45am","John W. Warner Hall 209","Data Structures and Algorithms 2","",Open,216,289,7
+16063,CS,3100,002,Lecture,"3","Raymond Pettit","TuTh 2:00pm - 3:15pm","Mechanical Engr Bldg 205","Data Structures and Algorithms 2","",Wait List,145,145,17
+16064,CS,3120,001,Lecture,"3","Mark Floryan","TuTh 11:00am - 12:15pm","John W. Warner Hall 209","Discrete Mathematics and Theory 2","",Wait List,190,190,7
+19555,CS,3120,002,Lecture,"3","Wei-Kai Lin","TuTh 12:30pm - 1:45pm","Rice Hall 130","Discrete Mathematics and Theory 2","",Open,130,140,1
+16065,CS,3130,001,Lecture,"4","Charles Reiss","TuTh 12:30pm - 1:45pm","John W. Warner Hall 209","Computer Systems and Organization 2","",Wait List,235,235,15
+19556,CS,3130,002,Lecture,"4","Brad Campbell","TuTh 9:30am - 10:45am","Olsson Hall 120","Computer Systems and Organization 2","",Wait List,141,140,13
+16066,CS,3130,101,Laboratory,"0","Charles Reiss","We 2:00pm - 3:15pm","Olsson Hall 009","Computer Systems and Organization 2","",Wait List,76,76,5
+16067,CS,3130,102,Laboratory,"0","Charles Reiss","We 3:30pm - 4:45pm","Olsson Hall 018","Computer Systems and Organization 2","",Wait List,90,90,4
+16068,CS,3130,103,Laboratory,"0","Charles Reiss","We 5:00pm - 6:15pm","Rice Hall 130","Computer Systems and Organization 2","",Wait List,154,154,12
+16069,CS,3130,104,Laboratory,"0","Charles Reiss","We 6:30pm - 7:45pm","Olsson Hall 018","Computer Systems and Organization 2","",Open,56,90,1
+16070,CS,3140,001,Lecture,"3","Rich Nguyen","TuTh 11:00am - 12:15pm","Olsson Hall 120","Software Development Essentials","",Wait List,140,140,38
+19558,CS,3140,002,Lecture,"3","Derrick Stone","TuTh 2:00pm - 3:15pm","John W. Warner Hall 209","Software Development Essentials","",Open,273,290,0
+15473,CS,3205,001,Lecture,"3","Seongkook Heo","TuTh 2:00pm - 3:15pm","Olsson Hall 120","HCI in Software Development","",Wait List,100,100,25
+15319,CS,3240,001,Lecture,"3","Mark Sherriff","TuTh 9:30am - 10:45am","Rice Hall 130","Software Engineering","",Wait List,142,140,16
+15644,CS,3240,002,Lecture,"3","Derrick Stone","TuTh 11:00am - 12:15pm","Rice Hall 130","Software Engineering","",Wait List,142,140,19
+14982,CS,3240,101,Laboratory,"0","Mark Sherriff","TBA","TBA","Software Engineering","",Open,284,300,32
+20539,CS,3250,001,Lecture,"3","Wenxi Wang","MoWeFr 1:00pm - 1:50pm","Thornton Hall E316","Software Testing","",Wait List,74,75,27
+16322,CS,3501,001,Lecture,"3","Miaomiao Zhang","TuTh 2:00pm - 3:15pm","Thornton Hall E316","Special Topics in Computer Science","Foundations of Data Analysis",Closed,60,60,0
+15742,CS,3710,001,Lecture,"3","Angela Orebaugh","MoWeFr 10:00am - 10:50am","Rice Hall 130","Introduction to Cybersecurity","",Wait List,141,140,35
+19559,CS,3710,002,Lecture,"3","Angela Orebaugh","MoWeFr 11:00am - 11:50am","Rice Hall 130","Introduction to Cybersecurity","",Wait List,144,140,33
+19560,CS,3710,003,Lecture,"3","Raymond Pettit","TuTh 3:30pm - 4:45pm","Mechanical Engr Bldg 205","Introduction to Cybersecurity","",Wait List,140,140,25
+19561,CS,4330,001,Lecture,"3","Ashish Venkat","TuTh 3:30pm - 4:45pm","Olsson Hall 009","Advanced Computer Architecture","",Open,25,75,0
+14983,CS,4414,001,Lecture,"3","Felix Lin","TuTh 12:30pm - 1:45pm","Olsson Hall 011","Operating Systems","",Closed,55,55,0
+15390,CS,4457,001,Lecture,"3","Hyojoon Kim","TuTh 12:30pm - 1:45pm","Olsson Hall 009","Computer Networks","",Open,73,75,0
+20647,CS,4501,001,Lecture,"3","Henry Kautz","MoWe 3:30pm - 4:45pm","Mechanical Engr Bldg 341","Special Topics in Computer Science","Analyzing Online Behavior for Public Health",Open,37,40,0
+15743,CS,4501,002,Lecture,"3","Kun Qian","TuTh 2:00pm - 3:15pm","Thornton Hall A120","Special Topics in Computer Science","Internet of Things",Open,33,48,0
+19563,CS,4501,003,Lecture,"3","Zezhou Cheng","MoWeFr 2:00pm - 2:50pm","Olsson Hall 120","Special Topics in Computer Science","Computer Vision",Wait List,72,72,14
+19564,CS,4501,004,Lecture,"3","Denis Nekipelov, Matheus Xavier Ferreira","MoWe 2:00pm - 3:15pm","Thornton Hall E316","Special Topics in Computer Science","Introduction to Algorithmic Economics",Wait List,45,45,16
+19565,CS,4501,005,Lecture,"3","Mark Floryan","MoWeFr 9:00am - 9:50am","Olsson Hall 018","Special Topics in Computer Science","Advanced Algorithms and Implementations",Wait List,75,75,21
+16098,CS,4501,006,Lecture,"3","Tom Fletcher","TuTh 11:00am - 12:15pm","Thornton Hall E316","Special Topics in Computer Science","Digital Signal Processing",Open,23,30,0
+19690,CS,4501,007,Lecture,"3","Tariq Iqbal","TuTh 9:30am - 10:45am","Rice Hall 120","Special Topics in Computer Science","Human-Robot Interaction",Open,0,10,0
+21001,CS,4501,008,Lecture,"3","Yanjun Qi","MoWe 3:30pm - 4:45pm","Olsson Hall 009","Special Topics in Computer Science","Risks and Benefits of Generative AI and LLMs",Open,11,30,0
+19566,CS,4630,001,Lecture,"3","Charles Reiss","MoWeFr 1:00pm - 1:50pm","Olsson Hall 120","Defense Against the Dark Arts","",Wait List,74,75,1
+16253,CS,4640,001,Lecture,"3","Robbie Hott","MoWeFr 10:00am - 10:50am","Olsson Hall 018","Programming Languages for Web Applications","",Wait List,75,75,8
+16254,CS,4710,001,Lecture,"3","Yangfeng Ji","MoWe 2:00pm - 3:15pm","Thornton Hall E303","Artificial Intelligence","",Wait List,75,75,14
+16255,CS,4710,002,Lecture,"3","Yen-Ling Kuo","TuTh 2:00pm - 3:15pm","Olsson Hall 009","Artificial Intelligence","",Wait List,75,75,6
+20127,CS,4720,001,Lecture,"3","Paul McBurney","MoWe 3:30pm - 4:45pm","Thornton Hall A120","Mobile Application Development","",Wait List,76,76,35
+16073,CS,4730,001,Lecture,"3","Robbie Hott","MoWeFr 12:00pm - 12:50pm","Thornton Hall A120","Computer Game Design","",Wait List,74,75,30
+16257,CS,4740,001,Lecture,"3","Haiying Shen","MoWeFr 3:00pm - 3:50pm","Rice Hall 130","Cloud Computing","",Wait List,70,70,15
+15391,CS,4750,001,Lecture,"3","Paul McBurney","MoWeFr 12:00pm - 12:50pm","Rice Hall 130","Database Systems","",Wait List,145,145,43
+15758,CS,4760,001,Lecture,"3","Daniel Graham","MoWeFr 1:00pm - 1:50pm","Olsson Hall 011","Network Security","",Open,54,75,0
+19567,CS,4774,001,Lecture,"3","Rich Nguyen","TuTh 12:30pm - 1:45pm","Olsson Hall 120","Machine Learning","",Wait List,134,135,8
+19568,CS,4774,002,Lecture,"3","Chen Chen","TuTh 3:30pm - 4:45pm","Olsson Hall 120","Machine Learning","",Wait List,75,75,6
+20860,CS,4790,001,Lecture,"3","Aaron Bloomfield","TuTh 11:00am - 12:15pm","Thornton Hall A120","Cryptocurrency","",Open,65,75,0
+15753,CS,4980,001,IND,"1 - 3","Aaron Bloomfield","TBA","TBA","Capstone Research","",Open,0,30,0
+16166,CS,4980,002,IND,"1 - 3","Panagiotis Apostolellis","TBA","TBA","Capstone Research","",Open,0,30,0
+15726,CS,4980,003,IND,"1 - 3","Matthew Dwyer","TBA","TBA","Capstone Research","",Open,0,30,0
+15336,CS,4980,004,IND,"1 - 3","David Evans","TBA","TBA","Capstone Research","",Open,0,30,0
+15337,CS,4980,005,IND,"1 - 3","Mark Floryan","TBA","TBA","Capstone Research","",Open,0,30,0
+15759,CS,4980,006,IND,"1 - 3","Homa Alemzadeh","TBA","TBA","Capstone Research","",Open,0,30,0
+16200,CS,4980,007,IND,"1 - 3","Tianhao Wang","TBA","TBA","Capstone Research","",Open,0,30,0
+15763,CS,4980,008,IND,"1 - 3","Nicola Bezzo","TBA","TBA","Capstone Research","",Open,0,30,0
+15891,CS,4980,009,IND,"1 - 3","Kevin Sullivan","TBA","TBA","Capstone Research","",Open,0,30,0
+15535,CS,4980,010,IND,"1 - 3","Madhur Behl","TBA","TBA","Capstone Research","",Open,0,30,0
+15812,CS,4980,011,IND,"1 - 3","Yangfeng Ji","TBA","TBA","Capstone Research","",Open,0,30,0
+15338,CS,4980,012,IND,"1 - 3","Mohammad Mahmoody","TBA","TBA","Capstone Research","",Open,0,30,0
+15567,CS,4980,013,IND,"1 - 3","Haiying Shen","TBA","TBA","Capstone Research","",Open,1,30,0
+15339,CS,4980,014,IND,"1 - 3","Yanjun Qi","TBA","TBA","Capstone Research","",Open,0,30,0
+15828,CS,4980,015,IND,"1 - 3","Aidong Zhang","TBA","TBA","Capstone Research","",Open,1,30,0
+16147,CS,4980,016,IND,"1 - 3","Ashish Venkat","TBA","TBA","Capstone Research","",Open,0,30,0
+15340,CS,4980,017,IND,"1 - 3","Mark Sherriff","TBA","TBA","Capstone Research","",Open,3,30,0
+15664,CS,4980,019,IND,"1 - 3","Sebastian Elbaum","TBA","TBA","Capstone Research","",Open,0,30,0
+15668,CS,4980,020,IND,"1 - 3","Samira Khan","TBA","TBA","Capstone Research","",Open,0,30,0
+15524,CS,4980,021,IND,"1 - 3","Lu Feng","TBA","TBA","Capstone Research","",Open,0,30,0
+15783,CS,4980,022,IND,"1 - 3","Brad Campbell","TBA","TBA","Capstone Research","",Open,0,30,0
+16377,CS,4980,023,IND,"1 - 3","Geoffrey Fox","TBA","TBA","Capstone Research","",Open,0,30,0
+16144,CS,4980,024,IND,"1 - 3","Felix Lin","TBA","TBA","Capstone Research","",Open,1,30,0
+16120,CS,4980,025,IND,"1 - 3","Briana Morrison","TBA","TBA","Capstone Research","",Open,0,30,0
+15451,CS,4980,026,IND,"1 - 3","Nada Basit","TBA","TBA","Capstone Research","",Open,0,30,0
+15796,CS,4980,027,IND,"1 - 3","Seongkook Heo","TBA","TBA","Capstone Research","",Open,0,30,0
+15804,CS,4980,028,IND,"1 - 3","Madhav Marathe","TBA","TBA","Capstone Research","",Open,0,30,0
+15711,CS,4980,029,IND,"1 - 3","Rich Nguyen","TBA","TBA","Capstone Research","",Open,4,30,0
+15805,CS,4980,030,IND,"1 - 3","Kevin Skadron","TBA","TBA","Capstone Research","",Open,2,30,0
+16358,CS,4980,031,IND,"1 - 3","Jundong Li","TBA","TBA","Capstone Research","",Open,0,30,0
+16362,CS,4980,032,IND,"1 - 3","Afsaneh Doryab","TBA","TBA","Capstone Research","",Open,0,30,0
+20835,CS,4980,033,IND,"1 - 3","Rohan Chandra","TBA","TBA","Capstone Research","",Open,1,30,0
+21010,CS,4980,034,IND,"1 - 3","Denis Nekipelov","TBA","TBA","Capstone Research","",Open,1,30,0
+21032,CS,4980,035,IND,"1 - 3","Mathews Jacob","TBA","TBA","Capstone Research","",Open,1,30,0
+21055,CS,4980,036,IND,"1 - 3","Tom Fletcher, Mathews Jacob","TBA","TBA","Capstone Research","",Open,0,30,0
+21102,CS,4980,037,IND,"1 - 3","Angela Orebaugh","TBA","TBA","Capstone Research","",Open,1,30,0
+21270,CS,4980,038,IND,"1 - 3","Yen-Ling Kuo","TBA","TBA","Capstone Research","",Open,1,30,0
+21302,CS,4980,039,IND,"1 - 3","Wajih Ul Hassan","TBA","TBA","Capstone Research","",Open,1,30,0
+21438,CS,4980,040,IND,"1 - 3","Henry Kautz","TBA","TBA","Capstone Research","",Open,0,30,0
+21499,CS,4980,041,IND,"1 - 3","Miaomiao Zhang","TBA","TBA","Capstone Research","",Open,1,30,0
+21625,CS,4980,042,IND,"1 - 3","Ferdinando Fioretto","TBA","TBA","Capstone Research","",Open,1,30,0
+21774,CS,4980,043,IND,"1 - 3","Kenneth Bilchick, Miaomiao Zhang","TBA","TBA","Capstone Research","",Open,1,30,0
+15900,CS,4991,001,SEM,"0","Rosanne Vrugtman","TBA","TBA","Capstone Technical Report","",Wait List,84,60,1
+19569,CS,4991,002,SEM,"0","Rosanne Vrugtman","TBA","TBA","Capstone Technical Report","",Wait List,84,60,2
+15536,CS,4993,001,IND,"1 - 3","Madhur Behl","TBA","TBA","Independent Study","",Open,3,30,0
+15754,CS,4993,002,IND,"1 - 3","Ashish Venkat","TBA","TBA","Independent Study","",Open,0,30,0
+16206,CS,4993,003,IND,"1 - 3","Brad Campbell","TBA","TBA","Independent Study","",Open,0,30,0
+15651,CS,4993,004,IND,"1 - 3","Homa Alemzadeh","TBA","TBA","Independent Study","",Open,0,30,0
+15766,CS,4993,005,IND,"1 - 3","Nicola Bezzo","TBA","TBA","Independent Study","",Open,1,30,0
+16497,CS,4993,006,IND,"1 - 3","Ferdinando Fioretto","TBA","TBA","Independent Study","",Open,0,30,0
+16205,CS,4993,007,IND,"1 - 3","Geoffrey Fox","TBA","TBA","Independent Study","",Open,2,30,0
+15991,CS,4993,008,IND,"1 - 3","Tariq Iqbal","TBA","TBA","Independent Study","",Open,0,30,0
+16013,CS,4993,009,IND,"1 - 3","Anil Vullikanti","TBA","TBA","Independent Study","",Open,0,30,0
+15253,CS,4993,010,IND,"1 - 3","Mark Sherriff","TBA","TBA","Independent Study","",Open,1,10,0
+16517,CS,4993,011,IND,"1 - 3","Yue Cheng","TBA","TBA","Independent Study","",Open,0,30,0
+16204,CS,4993,012,IND,"1 - 3","Tianhao Wang","TBA","TBA","Independent Study","",Open,0,30,0
+16030,CS,4993,013,IND,"1 - 3","Afsaneh Doryab","TBA","TBA","Independent Study","",Open,0,30,0
+15678,CS,4993,014,IND,"1 - 3","Robbie Hott","TBA","TBA","Independent Study","",Open,0,30,0
+16519,CS,4993,015,IND,"1 - 3","Wajih Ul Hassan","TBA","TBA","Independent Study","",Open,0,30,0
+15792,CS,4993,016,IND,"1 - 3","Jack Davidson","TBA","TBA","Independent Study","",Open,0,30,0
+15797,CS,4993,017,IND,"1 - 3","Seongkook Heo","TBA","TBA","Independent Study","",Open,0,30,0
+15813,CS,4993,018,IND,"1 - 3","Daniel Graham","TBA","TBA","Independent Study","",Open,0,30,0
+15823,CS,4993,019,IND,"1 - 3","Haiying Shen","TBA","TBA","Independent Study","",Open,0,30,0
+15824,CS,4993,020,IND,"1 - 3","Kevin Skadron","TBA","TBA","Independent Study","",Open,1,30,0
+15344,CS,4993,021,IND,"1 - 3","Nada Basit","TBA","TBA","Independent Study","",Open,4,10,0
+15345,CS,4993,022,IND,"1 - 3","Yanjun Qi","TBA","TBA","Independent Study","",Open,0,30,0
+15694,CS,4993,023,IND,"1 - 3","Panagiotis Apostolellis","TBA","TBA","Independent Study","",Open,0,30,0
+15707,CS,4993,024,IND,"1 - 3","Yangfeng Ji","TBA","TBA","Independent Study","",Open,1,30,0
+15346,CS,4993,025,IND,"1 - 3","David Evans","TBA","TBA","Independent Study","",Open,0,30,0
+16207,CS,4993,026,IND,"1 - 3","Felix Lin","TBA","TBA","Independent Study","",Open,0,30,0
+16182,CS,4993,027,IND,"1 - 3","Angela Orebaugh","TBA","TBA","Independent Study","",Open,1,30,0
+16036,CS,4993,028,IND,"1 - 3","Mircea Stan","TBA","TBA","Independent Study","",Open,0,30,0
+16191,CS,4993,029,IND,"1 - 3","Aidong Zhang","TBA","TBA","Independent Study","",Open,0,30,0
+15856,CS,4993,030,IND,"1 - 3","Madhav Marathe","TBA","TBA","Independent Study","",Open,0,30,0
+15882,CS,4993,031,IND,"1 - 3","Rich Nguyen","TBA","TBA","Independent Study","",Open,1,30,0
+15616,CS,4993,032,IND,"1 - 3","Farzad Hassanzadeh","TBA","TBA","Independent Study","",Open,0,30,0
+15886,CS,4993,033,IND,"1 - 3","Mark Floryan","TBA","TBA","Independent Study","",Open,0,30,0
+16015,CS,4993,034,IND,"1 - 3","Yixin Sun","TBA","TBA","Independent Study","",Open,0,30,0
+16051,CS,4993,035,IND,"1 - 3","Tom Horton","TBA","TBA","Independent Study","",Open,0,30,0
+16495,CS,4993,036,IND,"1 - 3","Charles Reiss","TBA","TBA","Independent Study","",Open,0,30,0
+15525,CS,4993,037,IND,"1 - 3","Lu Feng","TBA","TBA","Independent Study","",Open,0,30,0
+16026,CS,4993,038,IND,"1 - 3","Jundong Li","TBA","TBA","Independent Study","",Open,0,30,0
+16103,CS,4993,039,IND,"1 - 3","Kevin Sullivan","TBA","TBA","Independent Study","",Open,0,30,0
+16121,CS,4993,040,IND,"1 - 3","Briana Morrison","TBA","TBA","Independent Study","",Open,0,30,0
+16150,CS,4993,041,IND,"1 - 3","Raymond Pettit","TBA","TBA","Independent Study","",Open,0,30,0
+16348,CS,4993,042,IND,"1 - 3","Hyojoon Kim","TBA","TBA","Independent Study","",Open,0,30,0
+16359,CS,4993,043,IND,"1 - 3","Adwait Jog","TBA","TBA","Independent Study","",Open,0,30,0
+16360,CS,4993,044,IND,"1 - 3","Miaomiao Zhang","TBA","TBA","Independent Study","",Open,2,30,0
+16400,CS,4993,045,IND,"1 - 3","Judy Fox","TBA","TBA","Independent Study","",Open,0,30,0
+16413,CS,4993,046,IND,"1 - 3","Yen-Ling Kuo","TBA","TBA","Independent Study","",Open,2,30,0
+16481,CS,4993,047,IND,"1 - 3","Shangtong Zhang","TBA","TBA","Independent Study","",Open,1,30,0
+20836,CS,4993,048,IND,"1 - 3","Rohan Chandra","TBA","TBA","Independent Study","",Open,0,30,0
+21018,CS,4993,049,IND,"1 - 3","Aaron Bloomfield","TBA","TBA","Independent Study","",Open,1,30,0
+21059,CS,4993,050,IND,"1 - 3","Sandhya Dwarkadas","TBA","TBA","Independent Study","",Open,0,30,0
+21117,CS,4993,051,IND,"1 - 3","Chen-Yu Wei","TBA","TBA","Independent Study","",Open,1,30,0
+21240,CS,4993,052,IND,"1 - 3","Chen Chen","TBA","TBA","Independent Study","",Open,1,30,0
+21335,CS,4993,053,IND,"1 - 3","Henry Kautz","TBA","TBA","Independent Study","",Open,0,30,0
+21791,CS,4993,054,IND,"1 - 3","Caroline Crockett","TBA","TBA","Independent Study","",Open,0,30,0
+15755,CS,4998,001,IND,"3","Ashish Venkat","TBA","TBA","Distinguished BA Majors Research","",Open,0,30,0
+16489,CS,4998,002,IND,"3","Brad Campbell","TBA","TBA","Distinguished BA Majors Research","",Open,1,30,0
+15648,CS,4998,003,IND,"3","Yanjun Qi","TBA","TBA","Distinguished BA Majors Research","",Open,0,30,0
+15719,CS,4998,004,IND,"3","Mark Sherriff","TBA","TBA","Distinguished BA Majors Research","",Open,2,30,0
+15760,CS,4998,005,IND,"3","Homa Alemzadeh","TBA","TBA","Distinguished BA Majors Research","",Open,0,30,0
+15768,CS,4998,006,IND,"3","Nicola Bezzo","TBA","TBA","Distinguished BA Majors Research","",Open,0,30,0
+16043,CS,4998,007,IND,"3","Tariq Iqbal","TBA","TBA","Distinguished BA Majors Research","",Open,0,30,0
+15988,CS,4998,008,IND,"3","Rich Nguyen","TBA","TBA","Distinguished BA Majors Research","",Open,3,30,0
+16339,CS,4998,009,IND,"3","Chen-Yu Wei","TBA","TBA","Distinguished BA Majors Research","",Open,0,30,0
+15825,CS,4998,010,IND,"3","Kevin Skadron","TBA","TBA","Distinguished BA Majors Research","",Open,0,30,0
+15857,CS,4998,011,IND,"3","David Evans","TBA","TBA","Distinguished BA Majors Research","",Open,1,30,0
+16466,CS,4998,012,IND,"3","Shangtong Zhang","TBA","TBA","Distinguished BA Majors Research","",Open,1,30,0
+15969,CS,4998,013,IND,"3","Seongkook Heo","TBA","TBA","Distinguished BA Majors Research","",Open,0,30,0
+21046,CS,4998,014,IND,"3","Briana Morrison","TBA","TBA","Distinguished BA Majors Research","",Open,1,30,0
+21082,CS,4998,015,IND,"3","Anil Vullikanti","TBA","TBA","Distinguished BA Majors Research","",Open,1,30,0
+21430,CS,4998,016,IND,"3","Rohan Chandra","TBA","TBA","Distinguished BA Majors Research","",Open,0,30,0
+21580,CS,4998,017,IND,"3","Wei-Kai Lin","TBA","TBA","Distinguished BA Majors Research","",Open,1,30,0
+21650,CS,4998,018,IND,"3","Ferdinando Fioretto","TBA","TBA","Distinguished BA Majors Research","",Open,1,30,0
+21737,CS,4998,019,IND,"3","Aidong Zhang","TBA","TBA","Distinguished BA Majors Research","",Open,1,30,0
+21753,CS,4998,020,IND,"3","Tom Fletcher","TBA","TBA","Distinguished BA Majors Research","",Open,0,30,0
+16258,CS,6316,001,Lecture,"3","Shangtong Zhang","TuTh 9:30am - 10:45am","Rice Hall 340","Machine Learning","",Wait List,38,38,5
+19570,CS,6456,001,Lecture,"3","Felix Lin","TuTh 12:30pm - 1:45pm","Olsson Hall 011","Operating Systems","",Closed,20,20,0
+16082,CS,6465,001,Lecture,"3","Tariq Iqbal","TuTh 9:30am - 10:45am","Rice Hall 120","Human-Robot Interaction","",Open,1,15,0
+15445,CS,6501,001,Lecture,"3","Kevin Sullivan","TuTh 11:00am - 12:15pm","Rice Hall 340","Special Topics in Computer Science","Software Logic",Wait List,37,38,4
+15901,CS,6501,002,Lecture,"3","Yixin Sun","MoWe 2:00pm - 3:15pm","Mechanical Engr Bldg 341","Special Topics in Computer Science","Network Security and Privacy",Open,62,65,0
+16259,CS,6501,003,Lecture,"3","Chen-Yu Wei","MoWe 9:30am - 10:45am","Rice Hall 340","Special Topics in Computer Science","Reinforcement Learning",Open,36,38,1
+16074,CS,6501,004,Lecture,"3","Kevin Skadron","TuTh 2:00pm - 3:15pm","Rice Hall 340","Special Topics in Computer Science","CPU/GPU Memory Systems and Near-Data Processing",Open,21,30,0
+16261,CS,6501,005,Lecture,"3","Ferdinando Fioretto","MoWe 9:30am - 10:45am","Rice Hall 032","Special Topics in Computer Science","Responsible AI: Privacy, Fairness, and Robustness",Wait List,35,35,7
+19571,CS,6501,006,Lecture,"3","Tianhao Wang, Xiaochen Li","MoWe 12:30pm - 1:45pm","Rice Hall 340","Special Topics in Computer Science","Data Privacy",Wait List,35,35,2
+19572,CS,6501,007,Lecture,"3","Henry Kautz","MoWe 3:30pm - 4:45pm","Mechanical Engr Bldg 341","Special Topics in Computer Science","Analyzing Online Behavior for Public Health",Open,36,40,0
+19573,CS,6501,008,Lecture,"3","Wajih Ul Hassan","TuTh 5:00pm - 6:15pm","Rice Hall 340","Special Topics in Computer Science","Machine Learning in Systems Security",Open,23,38,0
+19574,CS,6501,009,Lecture,"3","Hadi Daneshmand","MoWe 11:00am - 12:15pm","Olsson Hall 018","Special Topics in Computer Science","Neural Networks",Wait List,38,38,2
+19575,CS,6501,010,Lecture,"3","Rohan Chandra","MoWe 11:00am - 12:15pm","Rice Hall 340","Special Topics in Computer Science","Multi-Robot Navigation",Open,14,38,0
+16263,CS,6501,011,Lecture,"3","Adwait Jog","TuTh 12:30pm - 1:45pm","Rice Hall 032","Special Topics in Computer Science","GPU Architectures",Open,17,35,0
+16264,CS,6501,012,Lecture,"3","Madhur Behl","MoWe 3:30pm - 4:45pm","Rice Hall 340","Special Topics in Computer Science","Learning in Robotics",Open,16,38,0
+16114,CS,6501,013,Lecture,"3","Homa Alemzadeh","MoWe 2:00pm - 3:15pm","Rice Hall 340","Special Topics in Computer Science","Advanced Embedded Computing Systems",Open,9,12,0
+16099,CS,6501,014,Lecture,"3","Tom Fletcher","TuTh 11:00am - 12:15pm","Thornton Hall E316","Special Topics in Computer Science","Digital Signal Processing",Open,11,20,0
+16260,CS,6501,015,Lecture,"3","Yu Meng","MoWe 2:00pm - 3:15pm","Olsson Hall 005","Special Topics in Computer Science","Natural Language Processing",Open,35,70,0
+19606,CS,6501,016,Lecture,"3","Jundong Li","MoWe 3:30pm - 4:45pm","Olsson Hall 011","Special Topics in Computer Science","Machine Learning on Graphs",Closed,18,18,0
+21062,CS,6501,017,Lecture,"3","Yanjun Qi","MoWe 3:30pm - 4:45pm","Olsson Hall 009","Special Topics in Computer Science","Risks and Benefits of Generative AI and LLMs",Closed,30,30,0
+15962,CS,6763,001,Lecture,"3","Lu Feng","TuTh 3:30pm - 4:45pm","Olsson Hall 005","Cyber-Physical Systems: Formal Methods, Safety and Security","",Closed,46,46,0
+15949,CS,6888,001,Lecture,"3","Matthew Dwyer","TuTh 12:30pm - 1:45pm","Rice Hall 340","Software Analysis and Applications","",Open,33,35,1
+16159,CS,6890,001,IND,"1","Yangfeng Ji","TBA","TBA","Industrial Applications","",Open,0,30,0
+15977,CS,6890,002,IND,"1","Felix Lin","TBA","TBA","Industrial Applications","",Open,0,30,0
+15997,CS,6890,003,IND,"1","David Evans","TBA","TBA","Industrial Applications","",Open,0,30,0
+16018,CS,6890,004,IND,"1","Brad Campbell","TBA","TBA","Industrial Applications","",Open,0,30,0
+16349,CS,6890,005,IND,"1","Hyojoon Kim","TBA","TBA","Industrial Applications","",Open,0,30,0
+16375,CS,6890,006,IND,"1","Seongkook Heo","TBA","TBA","Industrial Applications","",Open,0,30,0
+16468,CS,6890,007,IND,"1","Yanjun Qi","TBA","TBA","Industrial Applications","",Open,0,30,0
+16492,CS,6890,008,IND,"1","Farzad Hassanzadeh","TBA","TBA","Industrial Applications","",Open,0,30,0
+16510,CS,6890,009,IND,"1","Kun Qian","TBA","TBA","Industrial Applications","",Open,0,30,0
+15430,CS,6993,001,IND,"1 - 12","Nada Basit","TBA","TBA","Independent Study","",Open,0,10,0
+15454,CS,6993,002,IND,"1 - 12","Mohammad Mahmoody","TBA","TBA","Independent Study","",Open,0,10,0
+16201,CS,6993,003,IND,"1 - 12","Lu Feng","TBA","TBA","Independent Study","",Open,0,10,0
+15869,CS,6993,004,IND,"1 - 12","Aidong Zhang","TBA","TBA","Independent Study","",Open,1,10,0
+16189,CS,6993,005,IND,"1 - 12","Panagiotis Apostolellis","TBA","TBA","Independent Study","",Open,0,10,0
+16428,CS,6993,006,IND,"1 - 12","Mark Floryan","TBA","TBA","Independent Study","",Open,0,30,0
+16500,CS,6993,007,IND,"1 - 12","Rich Nguyen","TBA","TBA","Independent Study","",Open,0,30,0
+16509,CS,6993,008,IND,"1 - 12","Chang Lou","TBA","TBA","Independent Study","",Open,0,30,0
+16511,CS,6993,009,IND,"1 - 12","Kun Qian","TBA","TBA","Independent Study","",Open,0,30,0
+16518,CS,6993,010,IND,"1 - 12","Yue Cheng","TBA","TBA","Independent Study","",Open,0,30,0
+21271,CS,6993,011,IND,"1 - 12","Yen-Ling Kuo","TBA","TBA","Independent Study","",Open,2,30,0
+21336,CS,6993,012,IND,"1 - 12","Henry Kautz","TBA","TBA","Independent Study","",Open,0,30,0
+21460,CS,6993,013,IND,"1 - 12","Kevin Skadron","TBA","TBA","Independent Study","",Open,1,30,0
+21695,CS,6993,014,IND,"1 - 12","Anil Vullikanti","TBA","TBA","Independent Study","",Open,1,30,0
+21786,CS,6993,015,IND,"1 - 12","Matheus Xavier Ferreira","TBA","TBA","Independent Study","",Open,0,30,0
+15881,CS,7993,001,IND,"1 - 12","Jundong Li","TBA","TBA","Independent Study","",Open,1,30,0
+16198,CS,7993,002,IND,"1 - 12","Geoffrey Fox","TBA","TBA","Independent Study","",Open,0,30,0
+15342,CS,7993,003,IND,"1 - 12","Yanjun Qi","TBA","TBA","Independent Study","",Open,0,5,0
+15720,CS,7993,004,IND,"1 - 12","Mohammad Mahmoody","TBA","TBA","Independent Study","",Open,0,30,0
+16415,CS,7993,005,IND,"1 - 12","Yen-Ling Kuo","TBA","TBA","Independent Study","",Open,2,30,0
+15708,CS,7993,006,IND,"1 - 12","Yangfeng Ji","TBA","TBA","Independent Study","",Open,0,30,0
+15458,CS,7993,007,IND,"1 - 12","Samira Khan","TBA","TBA","Independent Study","",Open,0,30,0
+15876,CS,7993,008,IND,"1 - 12","Brad Campbell","TBA","TBA","Independent Study","",Open,0,30,0
+15883,CS,7993,009,IND,"1 - 12","Haiying Shen","TBA","TBA","Independent Study","",Open,0,30,0
+15878,CS,7993,010,IND,"1 - 12","Madhav Marathe","TBA","TBA","Independent Study","",Open,0,30,0
+16023,CS,7993,011,IND,"1 - 12","Felix Lin","TBA","TBA","Independent Study","",Open,0,30,0
+16024,CS,7993,012,IND,"1 - 12","Afsaneh Doryab","TBA","TBA","Independent Study","",Open,0,30,0
+15534,CS,7993,013,IND,"1 - 12","Lu Feng","TBA","TBA","Independent Study","",Open,0,30,0
+15537,CS,7993,014,IND,"1 - 12","Madhur Behl","TBA","TBA","Independent Study","",Open,0,30,0
+16427,CS,7993,015,IND,"1 - 12","Matthew Dwyer","TBA","TBA","Independent Study","",Open,0,30,0
+16123,CS,7993,016,IND,"1 - 12","Miaomiao Zhang","TBA","TBA","Independent Study","",Open,2,30,0
+15756,CS,7993,017,IND,"1 - 12","Ashish Venkat","TBA","TBA","Independent Study","",Open,0,30,0
+15761,CS,7993,018,IND,"1 - 12","Homa Alemzadeh","TBA","TBA","Independent Study","",Open,0,30,0
+15771,CS,7993,019,IND,"1 - 12","Nicola Bezzo","TBA","TBA","Independent Study","",Open,0,30,0
+16461,CS,7993,020,IND,"1 - 12","Shangtong Zhang","TBA","TBA","Independent Study","",Open,0,30,0
+15874,CS,7993,021,IND,"1 - 12","Anil Vullikanti","TBA","TBA","Independent Study","",Open,0,30,0
+15798,CS,7993,022,IND,"1 - 12","Seongkook Heo","TBA","TBA","Independent Study","",Open,0,30,0
+15826,CS,7993,023,IND,"1 - 12","Kevin Skadron","TBA","TBA","Independent Study","",Open,0,30,0
+16475,CS,7993,024,IND,"1 - 12","Ferdinando Fioretto","TBA","TBA","Independent Study","",Open,0,30,0
+16512,CS,7993,025,IND,"1 - 12","Kun Qian","TBA","TBA","Independent Study","",Open,0,30,0
+16049,CS,7993,026,IND,"1 - 12","Tianhao Wang","TBA","TBA","Independent Study","",Open,0,30,0
+15868,CS,7993,027,IND,"1 - 12","Aidong Zhang","TBA","TBA","Independent Study","",Open,0,30,0
+16350,CS,7993,028,IND,"1 - 12","Hyojoon Kim","TBA","TBA","Independent Study","",Open,1,30,0
+16414,CS,7993,029,IND,"1 - 12","Chang Lou","TBA","TBA","Independent Study","",Open,0,30,0
+21337,CS,7993,030,IND,"1 - 12","Henry Kautz","TBA","TBA","Independent Study","",Open,1,30,0
+21785,CS,7993,031,IND,"1 - 12","Zezhou Cheng","TBA","TBA","Independent Study","",Open,1,30,0
+15697,CS,7995,001,IND,"3","Sebastian Elbaum","TBA","TBA","Supervised Project Research","",Open,0,30,0
+15701,CS,7995,002,IND,"3","Rich Nguyen","TBA","TBA","Supervised Project Research","",Open,0,30,0
+15705,CS,7995,003,IND,"3","Nada Basit","TBA","TBA","Supervised Project Research","",Open,0,30,0
+15709,CS,7995,004,IND,"3","Madhur Behl","TBA","TBA","Supervised Project Research","",Open,0,30,0
+15721,CS,7995,005,IND,"3","Mohammad Mahmoody","TBA","TBA","Supervised Project Research","",Open,0,30,0
+16122,CS,7995,006,IND,"3","Upsorn Praphamontripong","TBA","TBA","Supervised Project Research","",Open,0,30,0
+15727,CS,7995,007,IND,"3","Yangfeng Ji","TBA","TBA","Supervised Project Research","",Open,1,30,0
+16027,CS,7995,008,IND,"3","Ashish Venkat","TBA","TBA","Supervised Project Research","",Open,0,30,0
+15827,CS,7995,009,IND,"3","Kevin Skadron","TBA","TBA","Supervised Project Research","",Open,0,30,0
+15762,CS,7995,010,IND,"3","Homa Alemzadeh","TBA","TBA","Supervised Project Research","",Open,0,30,0
+15773,CS,7995,011,IND,"3","Nicola Bezzo","TBA","TBA","Supervised Project Research","",Open,0,30,0
+15851,CS,7995,012,IND,"3","Haifeng Xu","TBA","TBA","Supervised Project Research","",Open,0,30,0
+15774,CS,7995,013,IND,"3","Jonathan Goodall","TBA","TBA","Supervised Project Research","",Open,0,30,0
+15775,CS,7995,014,IND,"3","Kristen Naegle","TBA","TBA","Supervised Project Research","",Open,0,30,0
+15799,CS,7995,015,IND,"3","Seongkook Heo","TBA","TBA","Supervised Project Research","",Open,0,30,0
+15879,CS,7995,016,IND,"3","Madhav Marathe","TBA","TBA","Supervised Project Research","",Open,0,30,0
+16347,CS,7995,017,IND,"3","Raymond Pettit","TBA","TBA","Supervised Project Research","",Open,0,30,0
+16351,CS,7995,018,IND,"3","Hyojoon Kim","TBA","TBA","Supervised Project Research","",Open,0,30,0
+16376,CS,7995,019,IND,"3","Matthew Dwyer","TBA","TBA","Supervised Project Research","",Open,0,30,0
+21338,CS,7995,020,IND,"3","Henry Kautz","TBA","TBA","Supervised Project Research","",Open,0,30,0
+21778,CS,7995,021,IND,"3","Shangtong Zhang","TBA","TBA","Supervised Project Research","",Open,0,30,0
+21795,CS,7995,022,IND,"3","Yu Meng","TBA","TBA","Supervised Project Research","",Open,0,30,0
+14984,CS,8897,001,IND,"1 - 6","Jack Davidson","TBA","TBA","Graduate Teaching Instruction","",Open,0,20,0
+15061,CS,8897,002,IND,"1 - 6","David Evans","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+15360,CS,8897,003,IND,"1 - 6","Mohammad Mahmoody","TBA","TBA","Graduate Teaching Instruction","",Open,0,10,0
+15526,CS,8897,004,IND,"1 - 6","Lu Feng","TBA","TBA","Graduate Teaching Instruction","",Open,2,30,0
+16175,CS,8897,005,IND,"1 - 6","Tariq Iqbal","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15062,CS,8897,006,IND,"1 - 6","Kevin Skadron","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+16163,CS,8897,007,IND,"1 - 6","Tianhao Wang","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+16157,CS,8897,008,IND,"1 - 6","Miaomiao Zhang","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15538,CS,8897,009,IND,"1 - 6","Madhur Behl","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+15281,CS,8897,010,IND,"1 - 6","Tom Horton","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16149,CS,8897,011,IND,"1 - 6","Sebastian Elbaum","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15282,CS,8897,012,IND,"1 - 6","Mark Sherriff","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15283,CS,8897,013,IND,"1 - 6","Aaron Bloomfield","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16184,CS,8897,014,IND,"1 - 6","Haiying Shen","TBA","TBA","Graduate Teaching Instruction","",Open,2,30,0
+15361,CS,8897,015,IND,"1 - 6","Yanjun Qi","TBA","TBA","Graduate Teaching Instruction","",Open,1,10,0
+16473,CS,8897,016,IND,"1 - 6","Raymond Pettit","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15539,CS,8897,017,IND,"1 - 6","Brad Campbell","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16140,CS,8897,018,IND,"1 - 6","Matthew Dwyer","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15690,CS,8897,019,IND,"1 - 6","Aidong Zhang","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15370,CS,8897,020,IND,"1 - 6","Nada Basit","TBA","TBA","Graduate Teaching Instruction","",Open,0,5,0
+16465,CS,8897,021,IND,"1 - 6","Tom Fletcher","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15372,CS,8897,022,IND,"1 - 6","Mark Floryan","TBA","TBA","Graduate Teaching Instruction","",Open,0,5,0
+15699,CS,8897,023,IND,"1 - 6","Rich Nguyen","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16180,CS,8897,024,IND,"1 - 6","Wajih Ul Hassan","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+16038,CS,8897,025,IND,"1 - 6","Yangfeng Ji","TBA","TBA","Graduate Teaching Instruction","",Open,2,30,0
+15459,CS,8897,026,IND,"1 - 6","Samira Khan","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15714,CS,8897,027,IND,"1 - 6","Robbie Hott","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15474,CS,8897,028,IND,"1 - 6","Charles Reiss","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16515,CS,8897,029,IND,"1 - 6","Kun Qian","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16028,CS,8897,030,IND,"1 - 6","Yixin Sun","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+15975,CS,8897,031,IND,"1 - 6","Felix Lin","TBA","TBA","Graduate Teaching Instruction","",Open,2,30,0
+15840,CS,8897,032,IND,"1 - 6","Ashish Venkat","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+15842,CS,8897,033,IND,"1 - 6","Seongkook Heo","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+16352,CS,8897,034,IND,"1 - 6","Hyojoon Kim","TBA","TBA","Graduate Teaching Instruction","",Open,3,30,0
+16364,CS,8897,035,IND,"1 - 6","Yu Meng","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+16373,CS,8897,036,IND,"1 - 6","Yue Cheng","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16416,CS,8897,037,IND,"1 - 6","Wei-Kai Lin","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16417,CS,8897,038,IND,"1 - 6","Chang Lou","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16438,CS,8897,039,IND,"1 - 6","Shangtong Zhang","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+21159,CS,8897,040,IND,"1 - 6","Henry Kautz","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+21447,CS,8897,041,IND,"1 - 6","Rohan Chandra","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+21514,CS,8897,042,IND,"1 - 6","Zezhou Cheng","TBA","TBA","Graduate Teaching Instruction","",Open,2,30,0
+21590,CS,8897,043,IND,"1 - 6","Jundong Li","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+21636,CS,8897,044,IND,"1 - 6","Chen-Yu Wei","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+21643,CS,8897,045,IND,"1 - 6","Ferdinando Fioretto","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+21645,CS,8897,046,IND,"1 - 6","Hadi Daneshmand","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+21687,CS,8897,047,IND,"1 - 6","Wenxi Wang","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+21692,CS,8897,048,IND,"1 - 6","Chen Chen","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+21699,CS,8897,049,IND,"1 - 6","Matheus Xavier Ferreira","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+21727,CS,8897,050,IND,"1 - 6","Adwait Jog","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+21822,CS,8897,051,IND,"1 - 6","Daniel Graham","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16155,CS,8999,001,IND,"1 - 12","Yue Cheng","TBA","TBA","Thesis","",Open,3,30,0
+15063,CS,8999,002,IND,"1 - 12","Jack Davidson","TBA","TBA","Thesis","",Open,1,30,0
+15065,CS,8999,003,IND,"1 - 12","Tom Horton","TBA","TBA","Thesis","",Open,0,30,0
+15064,CS,8999,004,IND,"1 - 12","David Evans","TBA","TBA","Thesis","",Open,2,30,0
+15067,CS,8999,005,IND,"1 - 12","Kevin Skadron","TBA","TBA","Thesis","",Open,1,30,0
+16131,CS,8999,006,IND,"1 - 12","Tariq Iqbal","TBA","TBA","Thesis","",Open,2,30,0
+16014,CS,8999,007,IND,"1 - 12","Yixin Sun","TBA","TBA","Thesis","",Open,0,30,0
+16021,CS,8999,008,IND,"1 - 12","Geoffrey Fox","TBA","TBA","Thesis","",Open,5,30,0
+16047,CS,8999,009,IND,"1 - 12","Rich Nguyen","TBA","TBA","Thesis","",Open,0,30,0
+16033,CS,8999,010,IND,"1 - 12","Miaomiao Zhang","TBA","TBA","Thesis","",Open,1,30,0
+16006,CS,8999,011,IND,"1 - 12","Afsaneh Doryab","TBA","TBA","Thesis","",Open,2,30,0
+15540,CS,8999,012,IND,"1 - 12","Madhur Behl","TBA","TBA","Thesis","",Open,0,30,0
+15460,CS,8999,013,IND,"1 - 12","Samira Khan","TBA","TBA","Thesis","",Open,0,30,0
+16388,CS,8999,014,IND,"1 - 12","Ferdinando Fioretto","TBA","TBA","Thesis","",Open,5,30,0
+15362,CS,8999,015,IND,"1 - 12","Mohammad Mahmoody","TBA","TBA","Thesis","",Open,0,30,0
+15716,CS,8999,016,IND,"1 - 12","Yangfeng Ji","TBA","TBA","Thesis","",Open,2,30,0
+15802,CS,8999,017,IND,"1 - 12","Matthew Dwyer","TBA","TBA","Thesis","",Open,2,30,0
+15819,CS,8999,018,IND,"1 - 12","Jundong Li","TBA","TBA","Thesis","",Open,1,30,0
+15706,CS,8999,019,IND,"1 - 12","Sebastian Elbaum","TBA","TBA","Thesis","",Open,0,30,0
+15973,CS,8999,020,IND,"1 - 12","Felix Lin","TBA","TBA","Thesis","",Open,3,30,0
+15683,CS,8999,021,IND,"1 - 12","Anil Vullikanti","TBA","TBA","Thesis","",Open,5,30,0
+15068,CS,8999,022,IND,"1 - 12","Kevin Sullivan","TBA","TBA","Thesis","",Open,0,30,0
+15776,CS,8999,023,IND,"1 - 12","Nicola Bezzo","TBA","TBA","Thesis","",Open,0,30,0
+15541,CS,8999,024,IND,"1 - 12","Brad Campbell","TBA","TBA","Thesis","",Open,0,30,0
+15350,CS,8999,025,IND,"1 - 12","Yanjun Qi","TBA","TBA","Thesis","",Open,0,30,0
+16162,CS,8999,026,IND,"1 - 12","Wajih Ul Hassan","TBA","TBA","Thesis","",Open,5,30,0
+15800,CS,8999,027,IND,"1 - 12","Seongkook Heo","TBA","TBA","Thesis","",Open,1,30,0
+15527,CS,8999,028,IND,"1 - 12","Lu Feng","TBA","TBA","Thesis","",Open,2,30,0
+15691,CS,8999,029,IND,"1 - 12","Aidong Zhang","TBA","TBA","Thesis","",Open,6,30,0
+16195,CS,8999,030,IND,"1 - 12","Shangtong Zhang","TBA","TBA","Thesis","",Open,1,30,0
+16389,CS,8999,031,IND,"1 - 12","Chen-Yu Wei","TBA","TBA","Thesis","",Open,1,30,0
+15573,CS,8999,032,IND,"1 - 12","Homa Alemzadeh","TBA","TBA","Thesis","",Open,0,30,0
+15618,CS,8999,033,IND,"1 - 12","Farzad Hassanzadeh","TBA","TBA","Thesis","",Open,1,30,0
+15757,CS,8999,034,IND,"1 - 12","Ashish Venkat","TBA","TBA","Thesis","",Open,1,30,0
+16424,CS,8999,035,IND,"1 - 12","Yu Meng","TBA","TBA","Thesis","",Open,2,30,0
+15873,CS,8999,036,IND,"1 - 12","Haiying Shen","TBA","TBA","Thesis","",Open,2,30,0
+16513,CS,8999,037,IND,"1 - 12","Kun Qian","TBA","TBA","Thesis","",Open,2,30,0
+15684,CS,8999,038,IND,"1 - 12","Madhav Marathe","TBA","TBA","Thesis","",Open,3,30,0
+15880,CS,8999,039,IND,"1 - 12","Tom Fletcher","TBA","TBA","Thesis","",Open,0,30,0
+16353,CS,8999,040,IND,"1 - 12","Hyojoon Kim","TBA","TBA","Thesis","",Open,2,30,0
+16381,CS,8999,041,IND,"1 - 12","Adwait Jog","TBA","TBA","Thesis","",Open,1,30,0
+16382,CS,8999,042,IND,"1 - 12","Judy Fox","TBA","TBA","Thesis","",Open,0,30,0
+16383,CS,8999,043,IND,"1 - 12","Sandhya Dwarkadas","TBA","TBA","Thesis","",Open,2,30,0
+16384,CS,8999,044,IND,"1 - 12","Tianhao Wang","TBA","TBA","Thesis","",Open,3,30,0
+16385,CS,8999,045,IND,"1 - 12","Yen-Ling Kuo","TBA","TBA","Thesis","",Open,4,30,0
+16386,CS,8999,046,IND,"1 - 12","Wei-Kai Lin","TBA","TBA","Thesis","",Open,2,30,0
+16387,CS,8999,047,IND,"1 - 12","Chang Lou","TBA","TBA","Thesis","",Open,3,30,0
+20837,CS,8999,048,IND,"1 - 12","Rohan Chandra","TBA","TBA","Thesis","",Open,0,30,0
+21339,CS,8999,049,IND,"1 - 12","Henry Kautz","TBA","TBA","Thesis","",Open,1,30,0
+21486,CS,8999,050,IND,"1 - 12","Wenxi Wang","TBA","TBA","Thesis","",Open,1,30,0
+21618,CS,8999,051,IND,"1 - 12","Chen Chen","TBA","TBA","Thesis","",Open,1,30,0
+21635,CS,8999,052,IND,"1 - 12","Hadi Daneshmand","TBA","TBA","Thesis","",Open,1,30,0
+21655,CS,8999,053,IND,"1 - 12","Zezhou Cheng","TBA","TBA","Thesis","",Open,5,30,0
+21701,CS,8999,054,IND,"1 - 12","Matheus Xavier Ferreira","TBA","TBA","Thesis","",Open,1,30,0
+21709,CS,8999,055,IND,"1 - 12","Jing Yang","TBA","TBA","Thesis","",Open,1,30,0
+16165,CS,9897,001,IND,"1 - 6","Seongkook Heo","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+15234,CS,9897,002,IND,"1 - 6","Aaron Bloomfield","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16365,CS,9897,003,IND,"1 - 6","Yu Meng","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15476,CS,9897,004,IND,"1 - 6","Charles Reiss","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+15235,CS,9897,005,IND,"1 - 6","Jack Davidson","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15236,CS,9897,006,IND,"1 - 6","David Evans","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16370,CS,9897,007,IND,"1 - 6","Yen-Ling Kuo","TBA","TBA","Graduate Teaching Instruction","",Open,2,30,0
+16411,CS,9897,008,IND,"1 - 6","Chen-Yu Wei","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16418,CS,9897,009,IND,"1 - 6","Yue Cheng","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16439,CS,9897,010,IND,"1 - 6","Shangtong Zhang","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+15373,CS,9897,011,IND,"1 - 6","Mark Floryan","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15239,CS,9897,012,IND,"1 - 6","Tom Horton","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16486,CS,9897,013,IND,"1 - 6","Adwait Jog","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15363,CS,9897,014,IND,"1 - 6","Mohammad Mahmoody","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15542,CS,9897,015,IND,"1 - 6","Madhur Behl","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15469,CS,9897,016,IND,"1 - 6","Nada Basit","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15528,CS,9897,017,IND,"1 - 6","Lu Feng","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15976,CS,9897,018,IND,"1 - 6","Felix Lin","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15240,CS,9897,019,IND,"1 - 6","Mark Sherriff","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15241,CS,9897,020,IND,"1 - 6","Kevin Skadron","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16354,CS,9897,021,IND,"1 - 6","Hyojoon Kim","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15364,CS,9897,022,IND,"1 - 6","Yanjun Qi","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15844,CS,9897,023,IND,"1 - 6","Yangfeng Ji","TBA","TBA","Graduate Teaching Instruction","",Open,2,30,0
+15242,CS,9897,024,IND,"1 - 6","Kevin Sullivan","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16190,CS,9897,025,IND,"1 - 6","Miaomiao Zhang","TBA","TBA","Graduate Teaching Instruction","",Open,2,30,0
+15543,CS,9897,026,IND,"1 - 6","Brad Campbell","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15841,CS,9897,027,IND,"1 - 6","Ashish Venkat","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15692,CS,9897,028,IND,"1 - 6","Aidong Zhang","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16516,CS,9897,029,IND,"1 - 6","Kun Qian","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15461,CS,9897,030,IND,"1 - 6","Samira Khan","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15715,CS,9897,031,IND,"1 - 6","Robbie Hott","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+15733,CS,9897,032,IND,"1 - 6","Daniel Graham","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+16041,CS,9897,033,IND,"1 - 6","Tianhao Wang","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+16048,CS,9897,034,IND,"1 - 6","Tom Fletcher","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+21160,CS,9897,035,IND,"1 - 6","Henry Kautz","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+21515,CS,9897,036,IND,"1 - 6","Zezhou Cheng","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+21646,CS,9897,037,IND,"1 - 6","Hadi Daneshmand","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+21654,CS,9897,038,IND,"1 - 6","Briana Morrison","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+21688,CS,9897,039,IND,"1 - 6","Wenxi Wang","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+21690,CS,9897,040,IND,"1 - 6","Rohan Chandra","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+21693,CS,9897,041,IND,"1 - 6","Chen Chen","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+21700,CS,9897,042,IND,"1 - 6","Matheus Xavier Ferreira","TBA","TBA","Graduate Teaching Instruction","",Open,0,30,0
+21726,CS,9897,043,IND,"1 - 6","Yixin Sun","TBA","TBA","Graduate Teaching Instruction","",Open,1,30,0
+15069,CS,9999,001,IND,"1 - 12","Jack Davidson","TBA","TBA","Dissertation","",Open,0,30,0
+16209,CS,9999,002,IND,"1 - 12","Geoffrey Fox","TBA","TBA","Dissertation","",Open,2,30,0
+16156,CS,9999,003,IND,"1 - 12","Shangtong Zhang","TBA","TBA","Dissertation","",Open,2,30,0
+15729,CS,9999,004,IND,"1 - 12","Ashish Venkat","TBA","TBA","Dissertation","",Open,4,30,0
+16425,CS,9999,005,IND,"1 - 12","Yu Meng","TBA","TBA","Dissertation","",Open,1,30,0
+15696,CS,9999,006,IND,"1 - 12","Sebastian Elbaum","TBA","TBA","Dissertation","",Open,3,30,0
+15695,CS,9999,007,IND,"1 - 12","Matthew Dwyer","TBA","TBA","Dissertation","",Open,3,30,0
+15070,CS,9999,008,IND,"1 - 12","David Evans","TBA","TBA","Dissertation","",Open,2,30,0
+16499,CS,9999,009,IND,"1 - 12","Homa Alemzadeh","TBA","TBA","Dissertation","",Open,0,30,0
+15992,CS,9999,010,IND,"1 - 12","Seongkook Heo","TBA","TBA","Dissertation","",Open,3,30,0
+16017,CS,9999,011,IND,"1 - 12","Yixin Sun","TBA","TBA","Dissertation","",Open,3,30,0
+15365,CS,9999,012,IND,"1 - 12","Mohammad Mahmoody","TBA","TBA","Dissertation","",Open,0,30,0
+15845,CS,9999,013,IND,"1 - 12","Yangfeng Ji","TBA","TBA","Dissertation","",Open,3,30,0
+15544,CS,9999,014,IND,"1 - 12","Madhur Behl","TBA","TBA","Dissertation","",Open,4,30,0
+16514,CS,9999,015,IND,"1 - 12","Kun Qian","TBA","TBA","Dissertation","",Open,0,30,0
+15366,CS,9999,016,IND,"1 - 12","Yanjun Qi","TBA","TBA","Dissertation","",Open,0,30,0
+15693,CS,9999,017,IND,"1 - 12","Aidong Zhang","TBA","TBA","Dissertation","",Open,3,30,0
+15974,CS,9999,018,IND,"1 - 12","Felix Lin","TBA","TBA","Dissertation","",Open,0,30,0
+15073,CS,9999,019,IND,"1 - 12","Kevin Skadron","TBA","TBA","Dissertation","",Open,7,30,0
+15686,CS,9999,020,IND,"1 - 12","Madhav Marathe","TBA","TBA","Dissertation","",Open,7,30,0
+15685,CS,9999,021,IND,"1 - 12","Anil Vullikanti","TBA","TBA","Dissertation","",Open,1,30,0
+15074,CS,9999,022,IND,"1 - 12","Kevin Sullivan","TBA","TBA","Dissertation","",Open,0,30,0
+15617,CS,9999,023,IND,"1 - 12","Farzad Hassanzadeh","TBA","TBA","Dissertation","",Open,0,30,0
+15820,CS,9999,024,IND,"1 - 12","Jundong Li","TBA","TBA","Dissertation","",Open,1,30,0
+15462,CS,9999,025,IND,"1 - 12","Samira Khan","TBA","TBA","Dissertation","",Open,1,30,0
+16179,CS,9999,026,IND,"1 - 12","Tom Fletcher","TBA","TBA","Dissertation","",Open,1,30,0
+15521,CS,9999,027,IND,"1 - 12","Haiying Shen","TBA","TBA","Dissertation","",Open,6,30,0
+15529,CS,9999,028,IND,"1 - 12","Lu Feng","TBA","TBA","Dissertation","",Open,2,30,0
+15545,CS,9999,029,IND,"1 - 12","Brad Campbell","TBA","TBA","Dissertation","",Open,4,30,0
+16192,CS,9999,030,IND,"1 - 12","Miaomiao Zhang","TBA","TBA","Dissertation","",Open,1,30,0
+16355,CS,9999,031,IND,"1 - 12","Hyojoon Kim","TBA","TBA","Dissertation","",Open,0,30,0
+16363,CS,9999,032,IND,"1 - 12","Yue Cheng","TBA","TBA","Dissertation","",Open,1,30,0
+16390,CS,9999,033,IND,"1 - 12","Adwait Jog","TBA","TBA","Dissertation","",Open,1,30,0
+16391,CS,9999,034,IND,"1 - 12","Judy Fox","TBA","TBA","Dissertation","",Open,1,30,0
+16392,CS,9999,035,IND,"1 - 12","Sandhya Dwarkadas","TBA","TBA","Dissertation","",Open,0,30,0
+16393,CS,9999,036,IND,"1 - 12","Tianhao Wang","TBA","TBA","Dissertation","",Open,1,30,0
+16394,CS,9999,037,IND,"1 - 12","Yen-Ling Kuo","TBA","TBA","Dissertation","",Open,1,30,0
+16395,CS,9999,038,IND,"1 - 12","Wei-Kai Lin","TBA","TBA","Dissertation","",Open,0,30,0
+16396,CS,9999,039,IND,"1 - 12","Chang Lou","TBA","TBA","Dissertation","",Open,0,30,0
+16397,CS,9999,040,IND,"1 - 12","Ferdinando Fioretto","TBA","TBA","Dissertation","",Open,1,30,0
+16398,CS,9999,041,IND,"1 - 12","Chen-Yu Wei","TBA","TBA","Dissertation","",Open,0,30,0
+21340,CS,9999,042,IND,"1 - 12","Henry Kautz","TBA","TBA","Dissertation","",Open,0,30,0
+21619,CS,9999,043,IND,"1 - 12","Chen Chen","TBA","TBA","Dissertation","",Open,0,30,0
+21644,CS,9999,044,IND,"1 - 12","Afsaneh Doryab","TBA","TBA","Dissertation","",Open,1,30,0
+21685,CS,9999,045,IND,"1 - 12","Zezhou Cheng","TBA","TBA","Dissertation","",Open,0,30,0
+21689,CS,9999,046,IND,"1 - 12","Wenxi Wang","TBA","TBA","Dissertation","",Open,0,30,0
+21691,CS,9999,047,IND,"1 - 12","Rohan Chandra","TBA","TBA","Dissertation","",Open,0,30,0
+21694,CS,9999,048,IND,"1 - 12","Hadi Daneshmand","TBA","TBA","Dissertation","",Open,0,30,0
+21702,CS,9999,049,IND,"1 - 12","Matheus Xavier Ferreira","TBA","TBA","Dissertation","",Open,0,30,0
+21710,CS,9999,050,IND,"1 - 12","Jing Yang","TBA","TBA","Dissertation","",Open,0,30,0
